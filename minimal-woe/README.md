@@ -19,7 +19,7 @@
 
 ## По шмоткам во вклад или крафту
 
-Cобрать следующие айтемы, или начать собирать
+Собрать следующие айтемы, или начать собирать
 - [https://www.romcodex.com/item/45128/beret](https://www.romcodex.com/item/45128/beret)
 - [https://www.romcodex.com/item/48528/masquerade](https://www.romcodex.com/item/48528/masquerade)
 
