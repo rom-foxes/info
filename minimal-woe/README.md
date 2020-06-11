@@ -9,8 +9,8 @@
 ## По карточкам
 
 Всем дамагерам купить и положить в справочник:
-- [https://www.romcodex.com/item/20017/hydra-card]()
-- [https://www.romcodex.com/item/20107/elder-card]()
+- [https://www.romcodex.com/item/20017/hydra-card](https://www.romcodex.com/item/20017/hydra-card)
+- [https://www.romcodex.com/item/20107/elder-card](https://www.romcodex.com/item/20107/elder-card)
 
 У кого есть деньги:
 - кладем еще 1 [тару](https://www.romcodex.com/item/20024/thara-frog-card) — всем
@@ -20,15 +20,15 @@
 ## По шмоткам во вклад или крафту
 
 Cобрать следующие айтемы, или начать собирать
-- [https://www.romcodex.com/item/45128/beret]()
-- [https://www.romcodex.com/item/48528/masquerade]()
+- [https://www.romcodex.com/item/45128/beret](https://www.romcodex.com/item/45128/beret)
+- [https://www.romcodex.com/item/48528/masquerade](https://www.romcodex.com/item/48528/masquerade)
 
 Все шмотки с арены — они легко делаются и бесплатно, а депозиты приятные.
  
 Карту миниволка, лучше делать твином — за 2-3 недели делается без напрягов, берем кого-нибудь и идем на арену Волка, золотые медали копим твином за дешевый лут.
 
 У кого есть деньги собираем вот это:
-- [https://www.romcodex.com/item/45123/alice-doll]() (6-8кк, иногда бывает на венде, легче купить с биржи чем самому делать)
-- [https://www.romcodex.com/item/45249/wandering-minstrel-hat]() — обязательная штука для дамагеров в депозит
+- [https://www.romcodex.com/item/45123/alice-doll](https://www.romcodex.com/item/45123/alice-doll) (6-8кк, иногда бывает на венде, легче купить с биржи чем самому делать)
+- [https://www.romcodex.com/item/45249/wandering-minstrel-hat](https://www.romcodex.com/item/45249/wandering-minstrel-hat) — обязательная штука для дамагеров в депозит
 
 *автор — MaZoX*
