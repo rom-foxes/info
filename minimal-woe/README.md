@@ -3,7 +3,8 @@
 2. [Карта Гидры в оружие](https://www.romcodex.com/item/20017/hydra-card) — повышение на 15% урона по полулюдям.
 3. [Карта Марка](https://www.romcodex.com/item/20028/marc-card) во вторую руку — иммунитет к заморозке.
 4. [Берет с перьями](https://www.romcodex.com/item/45041/feather-beret) — головной убор —снижение 10% урона от полулюдей.
-5. [Маска вождя гоблинов](https://www.romcodex.com/item/48517/goblin-leader-mask) — лицо — снижение 30% урона от полулюдей.
+5. [Маска вождя гоблинов](https://www.romcodex.com/item/48517/goblin-leader-mask) — лицо — снижение 30% урона от полулюдей. А еще лучше купить [шлем мидгарда](https://www.romcodex.com/item/45438/midgarts-helm) в вендинговой машинке/шкафу в гильдхолле и точнуть его на 5 и более
+
 
 ## По карточкам
 
