@@ -1,5 +1,5 @@
 const etMeta = {
-    date: '29 Jun — 5 Jul (2020)'
+    date: '29 Jun — 5 Jul (pre-update)'
 }
 
 const etMobs = {
