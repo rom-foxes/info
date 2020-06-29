@@ -47,7 +47,6 @@
 <script>
     const checkbox = document.getElementById('mvp');
     const savedOnlyMvp = parseInt(localStorage.getItem('only-mvp'));
-    console.log(savedOnlyMvp);
     if (savedOnlyMvp === 1) {
         document.body.classList.add('only-mvp');
         checkbox.setAttribute('checked', 'checked');
@@ -59,7 +58,6 @@
             let mobs = etMobs[lvl]
             let lvlText = parseInt(lvl.split('_')[1])
             document.write(`<tr class="lvl-${lvlText % 10}"><td>${lvlText}</td><td>${mobs.map((e) => {
-                    console.log(e);
                     return '<a target="_blank" href="' + encodeURI(romcodexMobs[e].url) + '"><img class="et-boss" alt="' + romcodexMobs[e].name + '" src="' + encodeURI(romcodexMobs[e].icon) + '" /></a>'
                 }
             ).join('')}
