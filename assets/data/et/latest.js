@@ -1,6 +1,7 @@
 const etMeta = {
     date: '29 Jun — 5 Jul (2020)'
 }
+
 const etMobs = {
     l_100: ['garm', 'garm', 'aa'],
     l_96: ['raf', 'duke', 'duke', 'zel'],
