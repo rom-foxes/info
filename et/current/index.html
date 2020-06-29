@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>body {
+        background-color: #00060d;
+        font-family: sans-serif;
+        color: #cbf0ff
+    }
+
+    .et-boss {
+        border: solid 2px #8fabb6;
+        border-radius: 4px;
+        height: 32px;
+        margin-left: 4px;
+    }
+
+    .lvl-0 .et-boss {
+        border-color: #b68d91;
+        height: 48px;
+    }
+
+    .only-mvp .lvl-3, .only-mvp .lvl-6 {
+        display: none;
+    }
+
+    .lvl-0 {
+        font-size: 120%;
+        color: #ffc5cb;
+    }</style>
+    <script src="../../assets/js/romcodex-mobs.js"></script>
+    <script src="../../assets/data/et/latest.js"></script>
+    <title>ROM EU Current Endless Tower</title>
+</head>
+<body>
+<h1>ROM EU ET <script>document.write(etMeta.date)</script></h1>
+<input id="mvp" type="checkbox"
+             onclick="if (this.checked) {
+                 document.body.classList.add('only-mvp');
+                 localStorage.setItem('only-mvp', '1')
+             } else {
+                 document.body.classList.remove('only-mvp');
+                 localStorage.setItem('only-mvp', '0')
+             }"/><label
+        for="mvp">MVP
+    only</label>
+<script>
+    const checkbox = document.getElementById('mvp');
+    const savedOnlyMvp = parseInt(localStorage.getItem('only-mvp'));
+    console.log(savedOnlyMvp);
+    if (savedOnlyMvp === 1) {
+        document.body.classList.add('only-mvp');
+        checkbox.setAttribute('checked', 'checked');
+    }
+</script>
+<table>
+    <script>
+        for (let lvl in etMobs) {
+            let mobs = etMobs[lvl]
+            let lvlText = parseInt(lvl.split('_')[1])
+            document.write(`<tr class="lvl-${lvlText % 10}"><td>${lvlText}</td><td>${mobs.map((e) => {
+                    console.log(e);
+                    return '<a target="_blank" href="' + encodeURI(romcodexMobs[e].url) + '"><img class="et-boss" alt="' + romcodexMobs[e].name + '" src="' + encodeURI(romcodexMobs[e].icon) + '" /></a>'
+                }
+            ).join('')}
+
+             </td></tr>`);
+        }
+    </script>
+</table>
+</body>
+</html>
