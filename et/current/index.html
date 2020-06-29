@@ -2,12 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
     <style>body {
         background-color: #00060d;
-        font-family: sans-serif;
-        color: #cbf0ff
+        font-family: 'Cormorant Garamond', serif;
+        color: #cbf0ff;
+        padding: 24px;
     }
 
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    #logo {
+        font-size: 72px;
+        color: #ffa05a;
+        vertical-align: bottom;
+    }
+    #logo img {
+        height: 64px;
+        display: inline;
+    }
+
+    #logo #discord {
+        height: 32px;
+        display: inline;
+    }
     .et-boss {
         border: solid 2px #8fabb6;
         border-radius: 4px;
@@ -33,6 +54,7 @@
     <title>ROM EU Current Endless Tower</title>
 </head>
 <body>
+<div id="logo"><a href="/"><img src="../../assets/img/logo.png" />&nbsp;Лисы</a>&nbsp;<a target="_blank" href="https://discord.gg/CK8mFcH"><img id="discord" src="../../assets/img/discord-logo-wordmark-color.svg" /></a></div>
 <h1>ROM EU ET <script>document.write(etMeta.date)</script></h1>
 <input id="mvp" type="checkbox"
              onclick="if (this.checked) {
@@ -58,7 +80,7 @@
             let mobs = etMobs[lvl]
             let lvlText = parseInt(lvl.split('_')[1])
             document.write(`<tr class="lvl-${lvlText % 10}"><td>${lvlText}</td><td>${mobs.map((e) => {
-                    return '<a target="_blank" href="' + encodeURI(romcodexMobs[e].url) + '"><img class="et-boss" alt="' + romcodexMobs[e].name + '" src="' + encodeURI(romcodexMobs[e].icon) + '" /></a>'
+                    return '<a target="_blank" href="' + encodeURI(romcodexMobs[e].url) + '"><img class="et-boss" alt="' + romcodexMobs[e].name + '" title="' + romcodexMobs[e].name + '" src="' + encodeURI(romcodexMobs[e].icon) + '" /></a>'
                 }
             ).join('')}
 
