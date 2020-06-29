@@ -1,5 +1,6 @@
 # Гайды Лис
 Наш дискорд: [https://discord.gg/CK8mFcH](https://discord.gg/CK8mFcH)
+
 ET: [https://rom-foxes.github.io/info/et/current/](https://rom-foxes.github.io/info/et/current/)
 
 ## Гайды
