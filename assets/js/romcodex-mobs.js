@@ -146,7 +146,7 @@ let romcodexMobs = {
     },
     dragonfly: {
         icon: '/info/assets/mobs/dragonfly.png',
-        name: 'Draoon Fly',
+        name: 'Dragon Fly',
         url: 'https://www.romcodex.com/monster/20007/dragon-fly'
     },
     gtb: {
