@@ -153,5 +153,80 @@ let romcodexMobs = {
         icon: '/info/assets/mobs/gtb.png',
         name: 'Golden Thief Bug',
         url: 'https://www.romcodex.com/monster/30002/golden-thief-bug'
+    },
+    timeholder: {
+        icon: '/info/assets/mobs/gtb.png',
+        name: 'Time Holder',
+        url: 'https://www.romcodex.com/monster/30033/time-holder'
+    },
+    fluteplayer: {
+        icon: '/info/assets/mobs/fluteplayer.png',
+        name: 'Flute Player',
+        url: 'https://www.romcodex.com/monster/20029/flute-player'
+    },
+    firewitch: {
+        icon: '/info/assets/mobs/firewitch.png',
+        name: 'Fire Witch',
+        url: 'https://www.romcodex.com/monster/20027/fire-witch'
+    },
+    loliruri: {
+        icon: '/info/assets/mobs/loliruri.png',
+        name: 'Loli Ruri',
+        url: 'https://www.romcodex.com/monster/20028/loli-ruri'
+    },
+    spashire: {
+        icon: '/info/assets/mobs/spashire.png',
+        name: 'Spashire',
+        url: 'https://www.romcodex.com/monster/30034/spashire'
+    },
+    dl: {
+        icon: '/info/assets/mobs/dl.png',
+        name: 'Dark Lord',
+        url: 'https://www.romcodex.com/monster/30029/dark-lord'
+    },
+    jakk: {
+        icon: '/info/assets/mobs/jakk.png',
+        name: 'Jakk',
+        url: 'https://www.romcodex.com/monster/20011/jakk'
+    },
+    doppelganger: {
+        icon: '/info/assets/mobs/doppelganger.png',
+        name: 'Doppelganger',
+        url: 'https://www.romcodex.com/monster/30015/doppelganger'
+    },
+    osiris: {
+        icon: '/info/assets/mobs/osiris.png',
+        name: 'Osiris',
+        url: 'https://www.romcodex.com/monster/30012/osiris'
+    },
+    goblinleader: {
+        icon: '/info/assets/mobs/goblinleader.png',
+        name: 'Goblin Leader',
+        url: 'https://www.romcodex.com/monster/30006/goblin-leader'
+    },
+    eclipse: {
+        icon: '/info/assets/mobs/eclipse.png',
+        name: 'Eclipse',
+        url: 'https://www.romcodex.com/monster/20002/eclipse'
+    },
+    rotarzairo: {
+        icon: '/info/assets/mobs/rotarzairo.png',
+        name: 'Rotar Zairo',
+        url: 'https://www.romcodex.com/monster/20002/eclipse'
+    },
+    atroce: {
+        icon: '/info/assets/mobs/atroce.png',
+        name: 'Atroce',
+        url: 'https://www.romcodex.com/monster/30023/atroce'
+    },
+    drake: {
+        icon: '/info/assets/mobs/drake.png',
+        name: 'Drake',
+        url: 'https://www.romcodex.com/monster/30004/drake'
+    },
+    bloodymurderer: {
+        icon: '/info/assets/mobs/bloodymurderer.png',
+        name: 'Bloody Murderer',
+        url: 'https://www.romcodex.com/monster/30049/bloody-murderer'
     }
 }
