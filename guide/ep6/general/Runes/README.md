@@ -1,3 +1,4 @@
+<a target="_blank" href="https://discord.gg/CK8mFcH">Лисий дискорд: https://discord.gg/CK8mFcH</a>
 <h1 id="новая-система-рун">Новая система рун</h1>
 <img src="./Images/Interface.jpg" />
 <p>Эпизод 6.0 вводит новую систему рун, которая работает параллельно  с рунами в Aesir Monument.</p>
