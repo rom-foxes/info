@@ -331,3 +331,16 @@
 <p>Наконец, новая система позволяет менять бонусы на Рунах Умений у того же НПЦ в Пронтере.</p>
 <p>Вы можете сделать это, используя три одинаковые руны.</p>
 <img src="./Images/Reroll.jpg" />
+<h2 id="Руны-по-профессиям">Руны по профессиям</h2>
+<p>Данный раздел ещё будет переведён.</p>
+<img src="./Classes/RK.jpg" />
+<img src="./Classes/RG.jpg" />
+<img src="./Classes/Bish.jpg" />
+<img src="./Classes/Shura.jpg" />
+<img src="./Classes/Chaser.jpg" />
+<img src="./Classes/GC.jpg" />
+<img src="./Classes/Gen.jpg" />
+<img src="./Classes/Mech.jpg" />
+<img src="./Classes/Lock.jpg" />
+<img src="./Classes/Sorc.jpg" />
+<img src="./Classes/Rang.jpg" />
