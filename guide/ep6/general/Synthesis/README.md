@@ -1,3 +1,4 @@
+<h1>Синтез брони</h1>
 <h2 id="img-src.synth_fintyran.png--tyrannical-armor"><img src="./synth_fin/tyran.png"> Tyrannical Armor</h2>
 <ul>
 <li>
@@ -34,7 +35,7 @@
 <p>Furious Soldier + Tyrannical Armor + Advanced Sack Teddy Shoes IV + Undershirt VIII: Atk +3%, Критический урон +3%, ASPD +5%, Макс ХП +10%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/beast.png"> Beast Heart VIII</p>
@@ -97,7 +98,7 @@
 <p>Blanking  Coat + Luna  Brooch  VI: урон от ловушек Охотника +10%</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/stardust.png"> Stardust Robe</p>
@@ -160,7 +161,7 @@
 <p>Wizardry Staff VIII (or Wizard Force) + Robe of Cast VIII (or Star Shatter’s Gown) + Eye of Dullahan VIII (or Kraken’s Eye) + Crystal Pumps IV: Переменное  время  каста -5%, Магический урон +3%, Игнор  M.Деф +3%.</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/robe_of_cast.png"> Robe Of Cast VIII</p>
@@ -232,7 +233,7 @@
 <p>Sky Smash + The Chosen’s Gown + Staunch Ring IV: Увеличение  урона Hell Gate +5%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/staunch_c.png"> Staunch Clothes X</p>
@@ -295,7 +296,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает физический и магический урон на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/staunch_a.png"> Staunch Armor X</p>
@@ -355,7 +356,7 @@
 <p>Croce Staff IV + Glorious Praise: Бонусное  Лечение +5%. При заточке Glorious  Praise  на +10 или выше увеличивает Бонусное Лечение на 10%.</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/holy.png"> Holy Robe VIII</p>
@@ -412,7 +413,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает Проникновение на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/iron.png"> Iron Armor VIII</p>
@@ -472,7 +473,7 @@
 <p>Magic Abyss + Sage Diary VIII: Шанс  срабатывания Double Flurry +3%. Магический урон +5%</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/surging.png"> Surging Magic Robe IV</p>
@@ -532,7 +533,7 @@
 <p>Black Wing V + Madman’s Jacket: Str +5, Игнор  Деф +10%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/bohemian.png"> Bohemian Coat VIII</p>
@@ -592,7 +593,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 снижает получаемый урон от нейтрала, ветра, земли, воды и огня на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/meteorite.png"> Meteorite Armor VI</p>
@@ -658,7 +659,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает Проникновение на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/elegant.png"> Elegant Uniform IV</p>
@@ -724,7 +725,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 снижает получаемый урон от нейтрала, яда, святости, тьмы и призрачного элемента на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/gobine.png"> Goibne’s Armor X</p>
@@ -793,7 +794,7 @@
 <p>Floating Cloud Clothes + Dancing Shoes IV + Wandering Bard’s Garments IV: Макс ХП +10%, Vit +5</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/elaborate.png"> Elaborate Costume IV</p>
@@ -859,7 +860,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает Игнор M.Деф by 2% (up  to 16%).</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/robe_of_jud.png"> Robe Of Judgment IV</p>
@@ -925,7 +926,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает Игнор  Деф на 2% (до 16%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/alloy.png"> Alloy Armor VIII</p>
@@ -985,7 +986,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 снижает получаемый магический и физический урон на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы  для  синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/legion.png"> Legion Plate Armor VIII</p>
@@ -1054,7 +1055,7 @@
 <p>Slash V + Shinewhole’s Robe: Attack Spd +5%, Atk +5%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/saint.png"> Saint’s Cape VIII</p>
@@ -1123,7 +1124,7 @@
 <p>Malang Snow Crab IV + Tyre’s Armor: Agi +5, Критический урон +10%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/sniping.png"> Sniping Suit VIII</p>
@@ -1186,7 +1187,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает физический урон на 1% (до 8%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/ninja.png"> Ninja Suit Moonlight VIII</p>
@@ -1249,7 +1250,7 @@
 <p>Cursed Lyre IV + Dark Star Stealth Clothes: увеличивает Atk эффектов Beast Attack.</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/ranger.png"> Ranger Clothes VIII</p>
@@ -1306,7 +1307,7 @@
 <p>Начиная с уровня заточки +8, каждая заточка на +1 увеличивает Atk  на 2% (до 16%).</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/glittering.png"> Glittering Jacket VIII</p>
@@ -1366,7 +1367,7 @@
 <p>Holy  Dagger  VIII + Breath  Holder’s  Armor: Урон по малым мобам +15%, Урон по средним мобам +5%, Урон по большим мобам +10%</p>
 </li>
 </ul>
-<p>Предметы для синтеза:</p>
+<h3>Предметы для синтеза:</h3>
 <ul>
 <li>
 <p><img src="./prim_mat/thief.png"> Thief Clothes VIII</p>
