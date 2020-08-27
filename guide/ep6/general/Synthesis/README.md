@@ -109,22 +109,22 @@
 <p><img src="./craft_arm/cat.png"> Cat’s Blessing II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finstar_shatter.png--star-shatter’s-gown"><img src="./synth_fin/star_shatter.png"> Star Shatter’s Gown</h2>
@@ -172,22 +172,22 @@
 <p><img src="./craft_arm/silk.png"> Silk Robe II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finchosen_gow.png--the-chosen’s-gown">## <img src="./synth_fin/chosen_gow.png"> The Chosen’s Gown</h2>
@@ -238,28 +238,28 @@
 <p><img src="./prim_mat/staunch_c.png"> Staunch Clothes X</p>
 </li>
 <li>
-<p><img src="«./craft_arm/orlean.png»"> Orleans’s Gown VIII</p>
+<p><img src="./craft_arm/orlean.png"> Orleans’s Gown VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/claytos.png»"> Claytos Cracking Earth Armor</p>
+<p><img src="./craft_arm/claytos.png"> Claytos Cracking Earth Armor</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finchosen_arm.png--the-chosen’s-armor">## <img src="./synth_fin/chosen_arm.png"> The Chosen’s Armor</h2>
@@ -307,22 +307,22 @@
 <p><img src="./craft_arm/aebecee.png"> Aebecee’s Raging Typhoon Armor</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finglorious.png--glorious-praise"><img src="./synth_fin/glorious.png"> Glorious Praise</h2>
@@ -361,28 +361,28 @@
 <p><img src="./prim_mat/holy.png"> Holy Robe VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/silver.png»"> Silver Robe VIII</p>
+<p><img src="./craft_arm/silver.png"> Silver Robe VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/exorcist.png»"> Exorcist Robe II</p>
+<p><img src="./craft_arm/exorcist.png"> Exorcist Robe II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finperseverance.png--perseverance-armor"><img src="./synth_fin/perseverance.png"> Perseverance Armor</h2>
@@ -418,28 +418,28 @@
 <p><img src="./prim_mat/iron.png"> Iron Armor VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/garman.png»"> Garman Plate Armor VIII</p>
+<p><img src="./craft_arm/garman.png"> Garman Plate Armor VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/cat.png»"> Cat’s Blessing II</p>
+<p><img src="./craft_arm/cat.png"> Cat’s Blessing II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finmagic_abyss.png--magic-abyss"><img src="./synth_fin/magic_abyss.png"> Magic Abyss</h2>
@@ -478,28 +478,28 @@
 <p><img src="./prim_mat/surging.png"> Surging Magic Robe IV</p>
 </li>
 <li>
-<p><img src="«./craft_arm/silver.png»"> Silver Robe VI</p>
+<p><img src="./craft_arm/silver.png"> Silver Robe VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/silk.png»"> Silk Robe VI</p>
+<p><img src="./craft_arm/silk.png"> Silk Robe VI</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finmadman.png--madmans-jacket"><img src="./synth_fin/madman.png"> Madman’s Jacket</h2>
@@ -538,28 +538,28 @@
 <p><img src="./prim_mat/bohemian.png"> Bohemian Coat VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/garman.png»"> Garman Plate Armor VIII</p>
+<p><img src="./craft_arm/garman.png"> Garman Plate Armor VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/saphien.png»"> Saphien’s Armor Of Ocean</p>
+<p><img src="./craft_arm/saphien.png"> Saphien’s Armor Of Ocean</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_fincomet.png--comet-warfare-armor">## <img src="./synth_fin/comet.png"> Comet Warfare Armor</h2>
@@ -598,28 +598,28 @@
 <p><img src="./prim_mat/meteorite.png"> Meteorite Armor VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/garman.png»"> Garman Plate Armor VIII</p>
+<p><img src="./craft_arm/garman.png"> Garman Plate Armor VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/panties.png»"> Panties III</p>
+<p><img src="./craft_arm/panties.png"> Panties III</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finmoon_gown.png--moon-gown">## <img src="./synth_fin/moon_gown.png"> Moon Gown</h2>
@@ -667,25 +667,25 @@
 <p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/panties.png»"> Panties VI</p>
+<p><img src="./craft_arm/panties.png"> Panties VI</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_fingods.png--gods’-blessings">## <img src="./synth_fin/gods.png"> Gods’ Blessings</h2>
@@ -730,28 +730,28 @@
 <p><img src="./prim_mat/gobine.png"> Goibne’s Armor X</p>
 </li>
 <li>
-<p><img src="«./craft_arm/orlean.png»"> Orleans’s Gown VIII</p>
+<p><img src="./craft_arm/orlean.png"> Orleans’s Gown VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/lucius.png»"> Lucius’s Fierce Armor Of Volcano</p>
+<p><img src="./craft_arm/lucius.png"> Lucius’s Fierce Armor Of Volcano</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finfloating.png--floating-cloud-clothes"><img src="./synth_fin/floating.png"> Floating Cloud Clothes</h2>
@@ -799,28 +799,28 @@
 <p><img src="./prim_mat/elaborate.png"> Elaborate Costume IV</p>
 </li>
 <li>
-<p><img src="«./prim_mat/deathcat.png»"> Deathcat Armor VI</p>
+<p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/cat.png»"> Cat’s Blessing VI</p>
+<p><img src="./craft_arm/cat.png"> Cat’s Blessing VI</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal × 16</p>
+<p><img src="./loot/glow.png"> Glow Metal × 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal × 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal × 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_findawn.png--dawn-clothes"><img src="./synth_fin/dawn.png"> Dawn Clothes</h2>
@@ -865,28 +865,28 @@
 <p><img src="./prim_mat/robe_of_jud.png"> Robe Of Judgment IV</p>
 </li>
 <li>
-<p><img src="«./craft_arm/silver.png»"> Silver Robe VIII</p>
+<p><img src="./craft_arm/silver.png"> Silver Robe VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/exorcist.png»"> Exorcist Robe V</p>
+<p><img src="./craft_arm/exorcist.png"> Exorcist Robe V</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finbright.png--bright-armor"><img src="./synth_fin/bright.png"> Bright Armor</h2>
@@ -931,28 +931,28 @@
 <p><img src="./prim_mat/alloy.png"> Alloy Armor VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/garman.png»"> Garman Plate Armor VI</p>
+<p><img src="./craft_arm/garman.png"> Garman Plate Armor VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/panties.png»"> Panties III</p>
+<p><img src="./craft_arm/panties.png"> Panties III</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finwatcher.png--watchers-armor"><img src="./synth_fin/watcher.png"> Watcher’s Armor</h2>
@@ -991,28 +991,28 @@
 <p><img src="./prim_mat/legion.png"> Legion Plate Armor VIII</p>
 </li>
 <li>
-<p><img src="«./prim_mat/deathcat.png»"> Deathcat Armor VI</p>
+<p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
-<p><img src="«./craft_arm/cat.png»"> Cat’s Blessing III</p>
+<p><img src="./craft_arm/cat.png"> Cat’s Blessing III</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/semiconductor.png»"> Semiconductor× 2000</p>
+<p><img src="./loot/semiconductor.png"> Semiconductor× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finshinewhole.png--shinewhole’s-robe"><img src="./synth_fin/shinewhole.png"> Shinewhole’s Robe</h2>
@@ -1060,28 +1060,28 @@
 <p><img src="./prim_mat/saint.png"> Saint’s Cape VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/silver.png»"> Silver Robe VIII</p>
+<p><img src="./craft_arm/silver.png"> Silver Robe VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/lucius.png»"> Lucius’s Fierce Armor Of Volcano</p>
+<p><img src="./craft_arm/lucius.png"> Lucius’s Fierce Armor Of Volcano</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_fintyre.png--tyres-armor"><img src="./synth_fin/tyre.png"> Tyre’s Armor</h2>
@@ -1129,28 +1129,28 @@
 <p><img src="./prim_mat/sniping.png"> Sniping Suit VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/angelic.png»"> Angelic Protection VIII</p>
+<p><img src="./craft_arm/angelic.png"> Angelic Protection VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/claytos.png»"> Claytos Cracking Earth Armor</p>
+<p><img src="./craft_arm/claytos.png"> Claytos Cracking Earth Armor</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finninja.png--ninja-clothes·cold-night-song"><img src="./synth_fin/ninja.png"> Ninja Clothes·Cold Night Song</h2>
@@ -1192,28 +1192,28 @@
 <p><img src="./prim_mat/ninja.png"> Ninja Suit Moonlight VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/angelic.png»"> Angelic Protection VIII</p>
+<p><img src="./craft_arm/angelic.png"> Angelic Protection VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/aebecee.png»"> Aebecee’s Raging Typhoon Armor</p>
+<p><img src="./craft_arm/aebecee.png"> Aebecee’s Raging Typhoon Armor</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_findark_star.png--dark-star-stealth-clothes"><img src="./synth_fin/dark_star.png"> Dark Star Stealth Clothes</h2>
@@ -1255,28 +1255,28 @@
 <p><img src="./prim_mat/ranger.png"> Ranger Clothes VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/orlean.png»"> Orleans’s Gown VIII</p>
+<p><img src="./craft_arm/orlean.png"> Orleans’s Gown VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/saphien.png»"> Saphien’s Armor Of Ocean</p>
+<p><img src="./craft_arm/saphien.png"> Saphien’s Armor Of Ocean</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/iron_ore.png»"> Iron Ore× 2000</p>
+<p><img src="./loot/iron_ore.png"> Iron Ore× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal× 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_fingreed.png--greed-shirt"><img src="./synth_fin/greed.png"> Greed Shirt</h2>
@@ -1312,28 +1312,28 @@
 <p><img src="./prim_mat/glittering.png"> Glittering Jacket VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/angelic.png»"> Angelic Protection VIII</p>
+<p><img src="./craft_arm/angelic.png"> Angelic Protection VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/cat.png»"> Cat’s Blessing II</p>
+<p><img src="./craft_arm/cat.png"> Cat’s Blessing II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal× 16</p>
+<p><img src="./loot/glow.png"> Glow Metal× 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart× 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart× 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder× 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder× 2000</p>
 </li>
 <li>
-<p><img src="«./loot/warrior.png»"> Warrior’s Will× 8</p>
+<p><img src="./loot/warrior.png"> Warrior’s Will× 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 <h2 id="img-src.synth_finbreath.png--breath-holder’s-armor"><img src="./synth_fin/breath.png"> Breath Holder’s Armor</h2>
@@ -1372,28 +1372,28 @@
 <p><img src="./prim_mat/thief.png"> Thief Clothes VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/angelic.png»"> Angelic Protection VIII</p>
+<p><img src="./craft_arm/angelic.png"> Angelic Protection VIII</p>
 </li>
 <li>
-<p><img src="«./craft_arm/panties.png»"> Panties II</p>
+<p><img src="./craft_arm/panties.png"> Panties II</p>
 </li>
 <li>
-<p><img src="«./loot/glow.png»"> Glow Metal × 16</p>
+<p><img src="./loot/glow.png"> Glow Metal × 16</p>
 </li>
 <li>
-<p><img src="«./loot/wicked.png»"> Wicked Heart × 8</p>
+<p><img src="./loot/wicked.png"> Wicked Heart × 8</p>
 </li>
 <li>
-<p><img src="«./loot/gas.png»"> Chemical Gas Cylinder × 2000</p>
+<p><img src="./loot/gas.png"> Chemical Gas Cylinder × 2000</p>
 </li>
 <li>
-<p><img src="«./loot/chaotic.png»"> Chaotic Metal × 8</p>
+<p><img src="./loot/chaotic.png"> Chaotic Metal × 8</p>
 </li>
 <li>
-<p><img src="«./loot/moldy.png»"> Moldy Gold Coins× 1000</p>
+<p><img src="./loot/moldy.png"> Moldy Gold Coins× 1000</p>
 </li>
 <li>
-<p><img src="«./loot/zeny.png»"> Zeny× 800 000</p>
+<p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
 
