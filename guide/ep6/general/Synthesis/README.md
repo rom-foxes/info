@@ -190,7 +190,7 @@
 <p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
-<h2 id="img-src.synth_finchosen_gow.png--the-chosen’s-gown">## <img src="./synth_fin/chosen_gow.png"> The Chosen’s Gown</h2>
+<h2 id="img-src.synth_finchosen_gow.png--the-chosen’s-gown"><img src="./synth_fin/chosen_gow.png"> The Chosen’s Gown</h2>
 <ul>
 <li>
 <p>Деф +205</p>
@@ -262,7 +262,7 @@
 <p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
-<h2 id="img-src.synth_finchosen_arm.png--the-chosen’s-armor">## <img src="./synth_fin/chosen_arm.png"> The Chosen’s Armor</h2>
+<h2 id="img-src.synth_finchosen_arm.png--the-chosen’s-armor"><img src="./synth_fin/cjosen_arm.png"> The Chosen’s Armor</h2>
 <ul>
 <li>
 <p>Деф +243</p>
@@ -562,7 +562,7 @@
 <p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
-<h2 id="img-src.synth_fincomet.png--comet-warfare-armor">## <img src="./synth_fin/comet.png"> Comet Warfare Armor</h2>
+<h2 id="img-src.synth_fincomet.png--comet-warfare-armor"><img src="./synth_fin/comet.png"> Comet Warfare Armor</h2>
 <ul>
 <li>
 <p>Деф +196</p>
@@ -622,7 +622,7 @@
 <p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
-<h2 id="img-src.synth_finmoon_gown.png--moon-gown">## <img src="./synth_fin/moon_gown.png"> Moon Gown</h2>
+<h2 id="img-src.synth_finmoon_gown.png--moon-gown"><img src="./synth_fin/moon_gown.png"> Moon Gown</h2>
 <ul>
 <li>
 <p>Деф +196</p>
@@ -664,7 +664,7 @@
 <p><img src="./prim_mat/elegant.png"> Elegant Uniform IV</p>
 </li>
 <li>
-<p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
+<p><img src="./craft_arm/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
 <p><img src="./craft_arm/panties.png"> Panties VI</p>
@@ -688,7 +688,7 @@
 <p><img src="./loot/zeny.png"> Zeny× 800 000</p>
 </li>
 </ul>
-<h2 id="img-src.synth_fingods.png--gods’-blessings">## <img src="./synth_fin/gods.png"> Gods’ Blessings</h2>
+<h2 id="img-src.synth_fingods.png--gods’-blessings"><img src="./synth_fin/gods.png"> Gods’ Blessings</h2>
 <ul>
 <li>
 <p>Деф +205</p>
@@ -799,7 +799,7 @@
 <p><img src="./prim_mat/elaborate.png"> Elaborate Costume IV</p>
 </li>
 <li>
-<p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
+<p><img src="./craft_arm/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
 <p><img src="./craft_arm/cat.png"> Cat’s Blessing VI</p>
@@ -991,7 +991,7 @@
 <p><img src="./prim_mat/legion.png"> Legion Plate Armor VIII</p>
 </li>
 <li>
-<p><img src="./prim_mat/deathcat.png"> Deathcat Armor VI</p>
+<p><img src="./craft_arm/deathcat.png"> Deathcat Armor VI</p>
 </li>
 <li>
 <p><img src="./craft_arm/cat.png"> Cat’s Blessing III</p>
