@@ -1,3 +1,4 @@
+<center><img src="./Images/triforce.png" width="200" height="200"/></center>
 <p>Материалы составлены гильдией "Лисы". Наш дискорд: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="новые-питомцы">Новые питомцы</h1>
 <img src="./Images/start.jpg" />
