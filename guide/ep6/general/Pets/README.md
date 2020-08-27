@@ -1,4 +1,4 @@
-<a target="_blank" href="https://discord.gg/CK8mFcH">Лисий дискорд: https://discord.gg/CK8mFcH</a>
+<p>Материалы составлены гильдией "Лисы". Наш дискорд: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="новые-питомцы">Новые питомцы</h1>
 <img src="./Images/start.jpg" />
 <p>Шестой эпизод, вводит в игру десять новых питомцев, среди которых есть даже 1 МВП!</p>
