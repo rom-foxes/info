@@ -1,4 +1,4 @@
-<a target="_blank" href="https://discord.gg/CK8mFcH">Лисий дискорд: https://discord.gg/CK8mFcH</a>
+<p>Материалы составлены гильдией "Лисы". Наш дискорд: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="домовладение">Домовладение</h1>
 <img src="./Images/start.jpg" />
 <p>Кардинально новая система, которая появится в игре после шестого эпизода – система домовладения</p>
