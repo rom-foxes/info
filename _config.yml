@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/img/card.png
+        height: 630
+        width: 1200
