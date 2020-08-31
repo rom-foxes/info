@@ -1,6 +1,6 @@
-<img src="./triforce.png" width="200" height="200"/>
+<center><img src="./triforce.png" width="200" height="200"/></center>
 <h1 id="башня-танатоса">Башня Танатоса</h1>
-<img src="./general/start.jpg" width="300" height="300"/>
+<center><img src="./general/start.jpg" width="300" height="300"/></center>
 <p>В эпизоде 6.0 вводится новый данж, в который можно (и нужно) ходить двумя патьками, объединёнными в альянс. Подземелье может быть довольно тяжёлым и требует слаженной работы всех людей в альянсе.</p>
 <h2 id="вход-в-башню">Вход в башню</h2>
 <img src="./general/juno.png"/>
