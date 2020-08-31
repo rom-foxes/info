@@ -1,3 +1,5 @@
+<center><img src="./triforce.png" width="200" height="200"/></center>
+<p>Материалы составлены гильдией "Лисы". Полный список гайдов и обсуждение нового эпизода в нашем дискорде: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1>Синтез брони</h1>
 <h2 id="img-src.synth_fintyran.png--tyrannical-armor"><img src="./synth_fin/tyran.png"> Tyrannical Armor</h2>
 <ul>
