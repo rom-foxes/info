@@ -1,5 +1,5 @@
 <center><img src="./Images/triforce.png" width="200" height="200"/></center>
-<p>Материалы составлены гильдией "Лисы". Наш дискорд: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
+<p>Материалы составлены гильдией "Лисы". Полный список гайдов и обсуждение нового эпизода в нашем дискорде: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="новая-система-рун">Новая система рун</h1>
 <img src="./Images/Interface.jpg" />
 <p>Эпизод 6.0 вводит новую систему рун, которая работает параллельно  с рунами в Aesir Monument.</p>
