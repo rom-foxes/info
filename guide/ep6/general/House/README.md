@@ -1,5 +1,5 @@
 <center><img src="./Images/triforce.png" width="200" height="200"/></center>
-<p>Материалы составлены гильдией "Лисы". Наш дискорд: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
+<p>Материалы составлены гильдией "Лисы". Полный список гайдов и обсуждение нового эпизода в нашем дискорде: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="домовладение">Домовладение</h1>
 <img src="./Images/start.jpg" />
 <p>Кардинально новая система, которая появится в игре после шестого эпизода – система домовладения</p>
