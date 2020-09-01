@@ -18,122 +18,117 @@
 </thead>
 <tbody>
 <tr>
-<td>Blessing</td>
+<td><img src="./adv_nov/bless.png" width="40" height="40"/><br>Blessing</td>
 <td>15</td>
 <td>Увеличивает STR, DEX, и INT  игрока и всех членов его группы на 25 пунктов на 300 секунд и снимает с цели проклятие и окаменение.</td>
 </tr>
 <tr>
-<td>Increase Agility</td>
+<td><img src="./adv_nov/agiup.png" width="40" height="40"/><br>Increase Agility</td>
 <td>10</td>
 <td>Использование Blessing  повышает AGI  на 20 пунктов и увеличивает Скорость Передвижения на 30% на 300 секунд.</td>
 </tr>
 <tr>
-<td>Gloria</td>
+<td><img src="./adv_nov/gloria.png" width="40" height="40"/><br>Gloria</td>
 <td>5</td>
 <td>Супер Новичок начинает петь святую песню, которая даёт всей группе 30 LUK  на 30 секунд.</td>
 </tr>
 <tr>
-<td>Marsh Pond</td>
+<td><img src="./adv_nov/marsh.png" width="40" height="40"/><br>Marsh Pond</td>
 <td>20</td>
 <td>Создаёт  болото. Каждый противник, попавший в него, теряет 70% Скорости Передвижения, 30 AGI, и 100% Скорости Атаки; Эффект длится 30 секунд и снимает все баффы скорости с противника.</td>
 </tr>
 <tr>
-<td>Taunt</td>
+<td><img src="./adv_nov/taunt.png" width="40" height="40"/><br>Taunt</td>
 <td>10</td>
 <td>Провоцирует противников в зоне воздействия умения, заставляя их атаковать вас в течение 6 секунд, увеличивая их Atk  на 20% и снижая их Def  на 21%. Не применим в ПвП.</td>
 </tr>
 <tr>
-<td>Light Shield</td>
+<td><img src="./adv_nov/light.png" width="40" height="40"/><br>Light Shield</td>
 <td>5</td>
 <td>Супер Новичок становится неуязвимым к дальним атакам. Барьер выдерживает 10 ударов и стоит максимум 12 секунд. Всего можно поставить 3 барьера за раз.</td>
 </tr>
 <tr>
-<td>Impositio Manus</td>
+<td><img src="./adv_nov/manus.png" width="40" height="40"/><br>Impositio Manus</td>
 <td>10</td>
 <td>Супер Новичок увеличивает Atk  всех союзников на 80. Автоатаки Супер Новичка наносят 100 единиц урона, игнорируя Def  и размер мобов. Эффект длится 120 секунд.</td>
 </tr>
 <tr>
-<td>Hiding</td>
+<td><img src="./adv_nov/hiding.png" width="40" height="40"/><br>Hiding</td>
 <td>15</td>
 <td>Супер Новичок прячется на 30 секунд и не может быть замечен противниками. В это время скорость его передвижения снижена на 10%.</td>
 </tr>
 <tr>
-<td>Spirits Recovery</td>
+<td><img src="./adv_nov/spirits.png" width="40" height="40"/><br>Spirits Recovery</td>
 <td>5</td>
 <td>Даёт Супер Новичку (Максимальное ХП/500 ＋ 4) × 5 Восстановление ХП и (Максимальное СП/500 ＋ 4) × 5 Восстановление СП каждые 10 секунд.</td>
 </tr>
 <tr>
-<td>Improve Flee</td>
+<td><img src="./adv_nov/improve.png" width="40" height="40"/><br>Improve Flee</td>
 <td>15</td>
 <td>Навсегда увеличивает Flee  на 30 пунктов, увеличивает FleeRate на 5%, и Скорость Передвижения на 15%.</td>
 </tr>
 <tr>
-<td>Increase Spiritual Recovery</td>
+<td><img src="./adv_nov/increase.png" width="40" height="40"/><br>Increase Spiritual Recovery</td>
 <td>10</td>
 <td>Каждые 10 секунд восстанавливает (30 ＋2% Максимальное СП) СП и увеличивает получаемое предметами СП на 50%</td>
 </tr>
 <tr>
-<td>Call Spirits</td>
+<td><img src="./adv_nov/call.png" width="40" height="40"/><br>Call Spirits</td>
 <td>5</td>
 <td>Окружает игрока бомбами, каждая из которых увеличивает атаку игрока на 10 и даёт ему 2% игнора Def  противника. Всего может быть 5 бомб Эффект длится 300 секунд.</td>
 </tr>
 <tr>
-<td>Sword Mastery</td>
+<td><img src="./adv_nov/sword.png" width="40" height="40"/><br>Sword Mastery</td>
 <td>10</td>
 <td>При использовании мечей Atk  повышается на 40, Автоатака увеличивается на 200</td>
 </tr>
 <tr>
-<td>Endure</td>
+<td><img src="./adv_nov/endure.png" width="40" height="40"/><br>Endure</td>
 <td>15</td>
 <td>Когда персонаж атакован, он не отбрасывается назад и его действия не прерываются, а он получает 150 M.Def. Эффект длится 52 секунды, но немедленно останавливается после получения урона 21 раз.</td>
 </tr>
 <tr>
-<td>Enchant Poison</td>
+<td><img src="./adv_nov/enchant.png" width="40" height="40"/><br>Enchant Poison</td>
 <td>10</td>
 <td>Наносит яд на оружие, который длится 300 секунд. Автоатаки получают 12% шанс отравить противника на 15 секунд. Отравленные противники теряют Def, Восстановление ХП и СП и (2%Максимальное ХП ＋3) ХП каждую секунду. Снижение ХП складывается до 3-х раз включительно. Когда ХП слишком низкое, потеря ХП прекращается, однако сохраняются другие дебаффы от яда.</td>
 </tr>
 <tr>
-<td>Improve Concentration</td>
+<td><img src="./adv_nov/improve_con.png" width="40" height="40"/><br>Improve Concentration</td>
 <td>15</td>
 <td>Навсегда увеличивает Agi, Dex, и Int  на 10. Увеличивает M.Dmg  на 60% каждые 20 секунд и снижает Фиксированное время каста на 100% на 5 sec.</td>
 </tr>
 <tr>
-<td>Open Stall</td>
-<td>5</td>
-<td>Enables Stall at Prontera or Southern Gate with additional 5 booths.</td>
-</tr>
-<tr>
-<td>Cart Attack</td>
+<td><img src="./adv_nov/cart.png" width="40" height="40"/><br>Cart Attack</td>
 <td>20</td>
 <td>Атакует противника Телегой, нанося 1250% урона. Требуется телега.</td>
 </tr>
 <tr>
-<td>Enhanced Cart</td>
+<td><img src="./adv_nov/enchanced.png" width="40" height="40"/><br>Enhanced Cart</td>
 <td>10</td>
 <td>При использовании умений с телегой Atk  ＋150</td>
 </tr>
 <tr>
-<td>Bash</td>
+<td><img src="./adv_nov/bash.png" width="40" height="40"/><br>Bash</td>
 <td>20</td>
 <td>Наносит (Atk250%) урон  цели. Когда уровень умения достигает 5, имеет 30% шанс оглушить цель.</td>
 </tr>
 <tr>
-<td>Magnum Break</td>
+<td><img src="./adv_nov/magnum.png" width="40" height="40"/><br>Magnum Break</td>
 <td>10</td>
 <td>Отбрасывает назад всех противников, нанося им (Atk250%) урон огнём. Огненные автоатаки увеличивают урон на 20% Atk. Эффект длится 10 секунд.</td>
 </tr>
 <tr>
-<td>Storm  Gust</td>
+<td><img src="./adv_nov/storm.png" width="40" height="40"/><br>Storm  Gust</td>
 <td>20</td>
 <td>Вызывает метель, которая наносит (M.Atk×750%) урон водой всем противникам в зоне действия умения, отбрасывая их назад. Есть 15% шанс заморозить противников на 7 секунд.</td>
 </tr>
 <tr>
-<td>Heaven’s Drive</td>
+<td><img src="./adv_nov/heaven.png" width="40" height="40"/><br>Heaven’s Drive</td>
 <td>20</td>
 <td>Поднимает землю, нанося (M.Atk1500%) урон землёй противникам в зоне действия умения.</td>
 </tr>
 <tr>
-<td>Fire Bolt</td>
+<td><img src="./adv_nov/fire.png" width="40" height="40"/><br>Fire Bolt</td>
 <td>15</td>
 <td>Атакует противника огненными стрелами, нанося (M.Atk1500%) урон огнём.</td>
 </tr>
@@ -150,77 +145,77 @@
 </thead>
 <tbody>
 <tr>
-<td>Stone Curse</td>
+<td><img src="./super_nov/stone.png" width="40" height="40"/><br>Stone Curse</td>
 <td>10</td>
 <td>Умение имеет 60% шанс вызвать окаменение у противников в зоне действия умения (Противники получают меньший урон землёй, но больший урон огнём). Длится 60 секунд. Каждые 5 секунд окаменевшие противники теряют 1% ХП, пока у них не будет оставаться 25% ХП.</td>
 </tr>
 <tr>
-<td>Antidote</td>
+<td><img src="./super_nov/antidote.png" width="40" height="40"/><br>Antidote</td>
 <td>5</td>
 <td>Убирает действие умения New  Poison  со всех членов группы, давая всем иммунитет к яду на 9 секунд.</td>
 </tr>
 <tr>
-<td>Safety Wall</td>
+<td><img src="./super_nov/safety.png" width="40" height="40"/><br>Safety Wall</td>
 <td>10</td>
 <td>Создаёт защитную стену, которая снижает получаемый игроками, стоящими внутри стены, урон от ударов ближнего боя на 100%. Стена стоит 50 секунд и может выдержать 12 атак. Всего можно призвать до 3 стен включительно.</td>
 </tr>
 <tr>
-<td>Vulture’s  Eye</td>
+<td><img src="./super_nov/vulture.png" width="40" height="40"/><br>Vulture’s  Eye</td>
 <td>15</td>
 <td>Навсегда увеличивает дальность ударов на 75% и HIT  на 30</td>
 </tr>
 <tr>
-<td>Status  Vulnerability</td>
+<td><img src="./super_nov/status.png" width="40" height="40"/><br>Status  Vulnerability</td>
 <td>5</td>
 <td>Наносит на 25% больше урона горящим, замороженным, оглушённым и кровоточащим противникам.</td>
 </tr>
 <tr>
-<td>Inspiration</td>
+<td><img src="./super_nov/inspiration.png" width="40" height="40"/><br>Inspiration</td>
 <td>10</td>
 <td>На 150 секунд увеличивает все характеристики на 10, а HIT, Atk  и M.Atk  на 100</td>
 </tr>
 <tr>
-<td>Over Thrust</td>
+<td><img src="./super_nov/over.png" width="40" height="40"/><br>Over Thrust</td>
 <td>10</td>
 <td>На 200 секунд, увеличивает Atk  и Refine  Atk  игрока на 25% и на 250 соответственно, и увеличивает Atk  всех союзников на 5%.</td>
 </tr>
 <tr>
-<td>Axe Mastery</td>
+<td><img src="./super_nov/axe.png" width="40" height="40"/><br>Axe Mastery</td>
 <td>10</td>
 <td>С экипированным топором увеличивает Atk  на 100 и игнорирует 10% Def</td>
 </tr>
 <tr>
-<td>Eden Team Blessing</td>
+<td><img src="./super_nov/eden.png" width="40" height="40"/><br>Eden Team Blessing</td>
 <td>5</td>
 <td>Супер Новичок получает полный иммунитет к магии на 30 секунд. Действие умения заканчивается после того, как игроку наносят урон 9 раз.</td>
 </tr>
 <tr>
-<td>Compulsion Discount</td>
+<td><img src="./super_nov/compulsion.png" width="40" height="40"/><br>Compulsion Discount</td>
 <td>5</td>
 <td>Игрок получает скидку в размере 7% при покупке предметов у НПЦ.</td>
 </tr>
 <tr>
-<td>Cart Boost</td>
+<td><img src="./super_nov/cart.png" width="40" height="40"/><br>Cart Boost</td>
 <td>5</td>
 <td>Увеличивает скорость передвижения на 30% и Atk  на 100 на 60 секунд. Может быть использовано только с телегой.</td>
 </tr>
 <tr>
-<td>Soul Blast</td>
+<td><img src="./super_nov/soul.png" width="40" height="40"/><br>Soul Blast</td>
 <td>10</td>
 <td>Наносит (2100% M.Atk) урон призрачным элементом цели и всем, кто находится в радиусе 3 метра от него. Урон распределён поровну между противниками.</td>
 </tr>
 <tr>
-<td>Frost Nova</td>
+<td><img src="./super_nov/frost.png" width="40" height="40"/><br>Frost Nova</td>
 <td>15</td>
 <td>Замораживает воздух вокруг игрока, имея 83% шанс заморозить противников на 15 секунд. Незамороженным  целям  наносится (M.Atk×250%) урон водой.</td>
 </tr>
 <tr>
-<td>Human’s Heart Light</td>
+<td><img src="./super_nov/human.png" width="40" height="40"/><br>Human’s Heart Light</td>
 <td>15</td>
 <td>Снижает урон, получаемый от Полулюдей на 25%. Действие эффекта снижается на 2/3 в ПвП</td>
 </tr>
 <tr>
-<td>Force Focus</td>
+<td><img src="./super_nov/force.png" width="40" height="40"/><br>Force Focus</td>
 <td>20</td>
 <td>Увеличивает Максимальное ХП игрока на 10000. Необходимо достичь прорыва третьей профессии и достичь 60 уровня.</td>
 </tr>
@@ -238,12 +233,12 @@
 </thead>
 <tbody>
 <tr>
-<td>Ice wall</td>
+<td><img src="./runes/ice.png" width="40" height="40"/><br>Ice wall</td>
 <td>5</td>
 <td>Окружает врага ледяной стеной. Противники возле этой стены получают урон и замораживаются. Чем больше уровень умения, тем дольше стоит стена.</td>
 </tr>
 <tr>
-<td>Thunderbolt</td>
+<td><img src="./runes/thunder.png" width="40" height="40"/><br>Thunderbolt</td>
 <td>7</td>
 <td>Призывает удар молнии, нанося урон ветром всем противникам в радиусе действия умения.</td>
 </tr>
