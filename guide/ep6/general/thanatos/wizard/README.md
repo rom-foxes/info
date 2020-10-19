@@ -1,3 +1,5 @@
+<center><img src="./triforce.png" width="200" height="200"/></center>
+<p>Материалы составлены гильдией "Лисы". Полный список гайдов и обсуждение нового эпизода в нашем дискорде: <a target="_blank" href="https://discord.gg/CK8mFcH"> https://discord.gg/CK8mFcH</a></p>
 <h1 id="гайд-по-башне-танатоса-для-варлоков">Гайд по Башне Танатоса для Варлоков</h1>
 <p>Данный гайд составлен для целей его использования Варлоками при прохождении 3-4 этажа Башни Танатоса. Обращаю внимание читающего, что Танатос билд Варлока существенно отличается от обычного МВП билда.</p>
 <h2 id="экипировка">Экипировка</h2>
@@ -14,78 +16,79 @@
 <tbody>
 <tr>
 <td>Оружие</td>
-<td>Wizard’s Force +10</td>
-<td>2х Abysmal Knight</td>
+<td><img src="./Wiz_power.png" width="50" height="50"/>Wizard’s Force +10</td>
+<td><img src="./abysmal.jpg" width="50" height="80"/> Abysmal Knight x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
-<td>Sacrifice Book +10</td>
-<td>Telepathy Amplification</td>
+<td><img src="./Sacrifice.png" width="50" height="50"/>Sacrifice Book +10</td>
+<td><img src="./telepathy.jpg" width="50" height="80"/>Telepathy Amplification</td>
 </tr>
 <tr>
 <td>Накидка</td>
-<td>Natto Kig’s Manteau +10</td>
-<td>Harpy ★</td>
+<td><img src="./natto.png" width="50" height="50"/>Natto Kig’s Manteau +10</td>
+<td><img src="./harpy.jpg" width="50" height="80"/>Harpy ★</td>
 </tr>
 <tr>
 <td>Броня</td>
-<td>Star Shatter’s Gown +10</td>
-<td>Munak ★</td>
+<td><img src="./gown.png" width="50" height="50"/>Star Shatter’s Gown +10</td>
+<td><img src="./munak.jpg" width="50" height="80"/>Munak ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
-<td>Crystal Pumps (IV) +8</td>
-<td>Familiar  ★</td>
+<td><img src="./pumps.png" width="50" height="50"/>Crystal Pumps (IV) +8</td>
+<td><img src="./familiar.jpg" width="50" height="80"/>Familiar  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 1</td>
-<td>Eye of Dullahan (VIII) +10</td>
-<td>Zipper Bear  ★</td>
+<td><img src="./dullahan.png" width="50" height="50"/>Eye of Dullahan (VIII) +10</td>
+<td><img src="./zipper.jpg" width="50" height="80"/>Zipper Bear  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 2</td>
-<td>Orleans’s Gloves (VIII)</td>
-<td>Zipper Bear  ★</td>
+<td><img src="./orlean.png" width="50" height="50"/>Orleans’s Gloves (VIII)</td>
+<td><img src="./zipper.jpg" width="50" height="80"/>Zipper Bear  ★</td>
 </tr>
 <tr>
 <td>Голова</td>
-<td>Coif или Wind Traveler</td>
-<td>Sealed Apocalypse</td>
+<td><img src="./coif.png" width="50" height="50"/>Coif<br><img src="./wind_traveler.png" width="50" height="50"/>Wind Traveler</td>
+<td><img src="./sealed.jpg" width="50" height="80"/>Sealed Apocalypse</td>
 </tr>
 <tr>
 <td>Лицо</td>
-<td>Evil Eye</td>
+<td><img src="./eye.png" width="50" height="50"/>Evil Eye</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Рот</td>
-<td>Ceremony - Spinning Sweet Dream или Magic Bubble Gum</td>
+<td><img src="./ceremony.png" width="50" height="50"/>Ceremony - Spinning Sweet Dream<br><img src="./magic_bubble.png" width="50" height="50"/>Magic Bubble Gum</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Спина</td>
-<td>Ashy Star Flying Feather или The Ancient One’s Staff</td>
+<td><img src="./ashy.png" width="50" height="50"/>Ashy Star Flying Feather<br><img src="./staff.png" width="50" height="50"/>The Ancient One’s Staff</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Хвост</td>
-<td>Peter Wendy</td>
+<td><img src="./peter.png" width="50" height="50"/>Peter Wendy</td>
 <td>-</td>
 </tr>
 </tbody>
-</table><p>Только предметы экипировки вам дадут вам 108% игнора Мдефа и 14% Магического проникновения. Вклад карты Sealed Apocalypse в справочник увеличит ваш Игнор Мдефа до 110%. Десятый уровень умения Energy Coat даёт вам дополнительно 5% Игнора Мдефа, то есть вы уже достигли 115%.</p>
+</table><p>Только предметы экипировки вам дадут вам 108% игнора Мдефа и 14% Магического проникновения. Вклад карты Sealed Apocalypse в справочник увеличит ваш Игнор Мдефа до 110%. Десятый уровень умения <img src="./coat.png" width="50" height="50"/> Energy Coat даёт вам дополнительно 5% Игнора Мдефа, то есть вы уже достигли 115%.</p>
 <p>Далее разгонять Игнор нужно с помощью маленьких рун, чипов, дополнительной заточной снаряжения.</p>
 <p>Варлоки на третьем этаже могут наносить огромный урон, если им повезло получить дополнительную строчку на Soul Elegy Rune.</p>
-<p>Данная строчка даёт вам полный игнор Магической защиты для умения Soul Expansion. Если вам повезло достать эту руну, то вы можете одеваться так, чтобы по максимуму увеличить ваш MATK, полностью отказываясь от предметов на Игнор Мдефа. На четвёртом этаже данная руна бессмыслена, так как вы будете бить другим умением.</p>
+<img src="./rune.PNG"/>
+<p>Данная строчка даёт вам полный игнор Магической защиты для умения <img src="./expansion.png" width="50" height="50"/>Soul Expansion. Если вам повезло достать эту руну, то вы можете одеваться так, чтобы по максимуму увеличить ваш MATK, полностью отказываясь от предметов на Игнор Мдефа. На четвёртом этаже данная руна бессмыслена, так как вы будете бить другим умением.</p>
 <h2 id="умения">Умения</h2>
-<p>Recognized Spell (lvl 10)</p>
-<p>Soul Expansion (lvl 15)</p>
-<p>HP Absorb (lvl 10)</p>
-<p>White Imprison (lvl 5)</p>
-<p>White Barrier (lvl 6)</p>
-<p>Force Focus (lvl 10)</p>
+<p><img src="./recognized.png" width="50" height="50"/> Recognized Spell (lvl 10)</p>
+<p><img src="./expansion.png" width="50" height="50"/> Soul Expansion (lvl 15)</p>
+<p><img src="./absorb.png" width="50" height="50"/> HP Absorb (lvl 10)</p>
+<p><img src="./imprison.png" width="50" height="50"/> White Imprison (lvl 5)</p>
+<p><img src="./barrier.png" width="50" height="50"/> White Barrier (lvl 6)</p>
+<p><img src="./focus.png" width="50" height="50"/> Force Focus (lvl 10)</p>
 <p>14 свободных очков</p>
-<p>Руны в монументе</p>
+<h2 id="руны-в-монументе">Руны в монументе</h2>
 <p>Основные руны, которые нужно взять:</p>
 <p>4 руны на HP  Absorb.</p>
 <p>3 руны на нейтральный урон.</p>
@@ -93,14 +96,14 @@
 <h2 id="действия">Действия</h2>
 <h3 id="третий-этаж">Третий этаж</h3>
 <p>На данном этаже вы внимательно смотрите на цвет зоны, где вам нужно находиться, и перемещаетесь туда.</p>
-<p>Советую вам купить за очки приключений умение «Prepare  for  Elite». Оно существенно сократит время вашего обкаста и количество занимаемых слотов на панели.</p>
+<p>Советую вам купить за очки приключений умение <img src="./elite.png" width="50" height="50"/> Prepare  for  Elite. Оно существенно сократит время вашего обкаста и количество занимаемых слотов на панели.</p>
 <p>Умения кастуются приблизительно в следующем порядке:</p>
-<p>Prepare for Elite - White Imprison - Soul Expansion - Soul Expansion - Soul Expansion - White Imprison - Soul Expansion - Soul Expansion - Soul Expansion - White Imprison - Soul Expansion - Soul Expansion - Soul Expansion - White Imprison - Soul Expansion - Soul Expansion - Soul Expansion - Prepare for Elite</p>
-<p>Prepare  for  Elite  перекастовывается по мере окончания действия умения Energy  Coat.</p>
-<p>Сначала всегда используется умение White  Imprison, так как карта в вашей второй руке увеличивает на 20% урон Soul  Expansion на 5 секунд после применения White  Imprison.</p>
-<p>При необходимости, если вам угрожает опасность, используйте White Barrier.</p>
+<p><img src="./elite.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./elite.png" width="50" height="50"/></p>
+<p><img src="./elite.png" width="50" height="50"/>Prepare  for  Elite  перекастовывается по мере окончания действия умения <img src="./coat.png" width="50" height="50"/>Energy  Coat.</p>
+<p>Сначала всегда используется умение <img src="./imprison.png" width="50" height="50"/>White  Imprison, так как карта в вашей второй руке увеличивает на 20% урон <img src="./expansion.png" width="50" height="50"/>Soul Expansion на 5 секунд после применения White  Imprison.</p>
+<p>При необходимости, если вам угрожает опасность, используйте <img src="./barrier.png" width="50" height="50"/>White Barrier.</p>
 <h3 id="четвёртый-этаж">Четвёртый этаж</h3>
-<p>Первая стадия босса достаточно лёгкая. Бейте его комбинацией с третьего этажа. Против мобов, которые иногда вылезают, очень хорошо использоваться HP  Absorb, так как мобы от неё шотаются.</p>
+<p>Первая стадия босса достаточно лёгкая. Бейте его комбинацией с третьего этажа. Против мобов, которые иногда вылезают, очень хорошо использоваться <img src="./absorb.png" width="50" height="50"/>HP Absorb, так как мобы от неё шотаются.</p>
 <p>Для второй стадии желательно иметь в альянсе двух визов, которые будут сменять друг друга. Порядок действий такой:</p>
-<p>Один из визов при старте второй стадии находится вне круга и копит ярость. На 40% ярости он улетает вниз. Внизу основное умение – HP  Absorb. И Бехолдеры, и Фриони шотаются этим умением. Ваша задача – как можно быстрее убивать Фриони. За один спуск вниз вы можете убить максимум две Фриони. Первую – приблизительно на 50% - 60% ярости. Вторую – на 90% - 98% ярости. Когда у вас накопилось 75% ярости, вы сообщаете об этом второму визу. Ни в коем случае вы не должны накопить 100% ярости. После убийства второй Фриони сразу же разговаривайте с НПЦ и выходите из другого мира. Если вдруг вы видите, что не успеваете убить вторую Фриони – выходите всё равно. Её может добить второй виз.</p>
-<p>Второй виз всё это время находится на поверхности и бьёт Танатоса связкой скиллов с третьего этажа и мобов HP  Absorb. Когда второй виз получает от первого информацию, что у первого виза накопилось 75% ярости, второй виз выходит за пределы круга и начинает копить ярость. На 40%, когда он улетит вниз, первый виз приблизительно в это время прилетает наверх. Цепочка замкнулась.</p>
+<p>Один из визов при старте второй стадии находится вне круга и копит ярость. На 40% ярости он улетает вниз. Внизу основное умение – <img src="./absorb.png" width="50" height="50"/>HP  Absorb. И Бехолдеры, и Фриони шотаются этим умением. Ваша задача – как можно быстрее убивать Фриони. За один спуск вниз вы можете убить максимум две Фриони. Первую – приблизительно на 50% - 60% ярости. Вторую – на 90% - 98% ярости. Когда у вас накопилось 75% ярости, вы сообщаете об этом второму визу. Ни в коем случае вы не должны накопить 100% ярости. После убийства второй Фриони сразу же разговаривайте с НПЦ и выходите из другого мира. Если вдруг вы видите, что не успеваете убить вторую Фриони – выходите всё равно. Её может добить второй виз.</p>
+<p>Второй виз всё это время находится на поверхности и бьёт Танатоса связкой скиллов с третьего этажа и мобов <img src="./absorb.png" width="50" height="50"/>HP  Absorb. Когда второй виз получает от первого информацию, что у первого виза накопилось 75% ярости, второй виз выходит за пределы круга и начинает копить ярость. На 40%, когда он улетит вниз, первый виз приблизительно в это время прилетает наверх. Цепочка замкнулась.</p>
