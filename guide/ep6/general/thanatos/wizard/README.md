@@ -76,6 +76,7 @@
 </tr>
 </tbody>
 </table><p>Только предметы экипировки вам дадут вам 108% игнора Мдефа и 14% Магического проникновения. Вклад карты Sealed Apocalypse в справочник увеличит ваш Игнор Мдефа до 110%. Десятый уровень умения <img src="./coat.png" width="50" height="50"/> Energy Coat даёт вам дополнительно 5% Игнора Мдефа, то есть вы уже достигли 115%.</p>
+<p>Данный шмот - не минимальные требования. Этот шмот - средний шмот Варлока для Танатоса. Основная задача у Варлока - выдавать средний урон на 3 этаже и шотать Фриони на 4.</p>
 <p>Далее разгонять Игнор нужно с помощью маленьких рун, чипов, дополнительной заточной снаряжения и, если вам повезёт, зачарованием второй руки, спины и лица. Каждое зачарование вам может дать до 20% игнора Мдефа.</p>
 <p>Варлоки на третьем этаже могут наносить огромный урон, если им повезло получить дополнительную строчку на Soul Elegy Rune.</p>
 <img src="./rune.PNG"/>
@@ -87,7 +88,8 @@
 <p><img src="./imprison.png" width="50" height="50"/> White Imprison (lvl 5)</p>
 <p><img src="./barrier.png" width="50" height="50"/> White Barrier (lvl 6)</p>
 <p><img src="./focus.png" width="50" height="50"/> Force Focus (lvl 10)</p>
-<p>14 свободных очков</p>
+<p><img src="./fast.png" width="50" height="50"/> Fast Reading Spell (lvl 5)</p>
+<p>9 свободных очков</p>
 <h2 id="руны-в-монументе">Руны в монументе</h2>
 <p>Основные руны, которые нужно взять:</p>
 <p>4 руны на HP  Absorb.</p>
@@ -99,6 +101,7 @@
 <p>Советую вам купить за очки приключений умение <img src="./elite.png" width="50" height="50"/> Prepare  for  Elite. Оно существенно сократит время вашего обкаста и количество занимаемых слотов на панели.</p>
 <p>Умения кастуются приблизительно в следующем порядке:</p>
 <p><img src="./elite.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./elite.png" width="50" height="50"/></p><br>
+<p>Для удобства можете поставить умения на авто. Единственное - вам нужно нормально контролировать своего персонажа, чтобы вовремя выбегать из опасных зон.</p>
 <p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite  перекастовывается по мере окончания действия умения <img src="./coat.png" width="50" height="50"/> Energy  Coat.</p>
 <p>Сначала всегда используется умение <img src="./imprison.png" width="50" height="50"/> White  Imprison, так как карта в вашей второй руке увеличивает на 20% урон <img src="./expansion.png" width="50" height="50"/> Soul Expansion на 5 секунд после применения White  Imprison.</p>
 <p>При необходимости, если вам угрожает опасность, используйте <img src="./barrier.png" width="50" height="50"/> White Barrier.</p>
