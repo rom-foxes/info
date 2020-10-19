@@ -16,62 +16,62 @@
 <tbody>
 <tr>
 <td>Оружие</td>
-<td><img src="./Wiz_power.png" width="50" height="50"/>Wizard’s Force +10</td>
-<td><img src="./abysmal.jpg" width="50" height="80"/> Abysmal Knight x2</td>
+<td><img src="./Wiz_power.png" width="50" height="50"/><br>Wizard’s Force +10</td>
+<td><img src="./abysmal.jpg" width="50" height="70"/><br>Abysmal Knight x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
-<td><img src="./Sacrifice.png" width="50" height="50"/>Sacrifice Book +10</td>
-<td><img src="./telepathy.jpg" width="50" height="80"/>Telepathy Amplification</td>
+<td><img src="./Sacrifice.png" width="50" height="50"/><br>Sacrifice Book +10</td>
+<td><img src="./telepathy.jpg" width="50" height="70"/><br>Telepathy Amplification</td>
 </tr>
 <tr>
 <td>Накидка</td>
-<td><img src="./natto.png" width="50" height="50"/>Natto Kig’s Manteau +10</td>
-<td><img src="./harpy.jpg" width="50" height="80"/>Harpy ★</td>
+<td><img src="./natto.png" width="50" height="50"/><br>Natto Kig’s Manteau +10</td>
+<td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy ★</td>
 </tr>
 <tr>
 <td>Броня</td>
-<td><img src="./gown.png" width="50" height="50"/>Star Shatter’s Gown +10</td>
-<td><img src="./munak.jpg" width="50" height="80"/>Munak ★</td>
+<td><img src="./gown.png" width="50" height="50"/><br>Star Shatter’s Gown +10</td>
+<td><img src="./munak.jpg" width="50" height="70"/><br>Munak ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
-<td><img src="./pumps.png" width="50" height="50"/>Crystal Pumps (IV) +8</td>
-<td><img src="./familiar.jpg" width="50" height="80"/>Familiar  ★</td>
+<td><img src="./pumps.png" width="50" height="50"/><br>Crystal Pumps (IV) +8</td>
+<td><img src="./familiar.jpg" width="50" height="70"/><br>Familiar  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 1</td>
-<td><img src="./dullahan.png" width="50" height="50"/>Eye of Dullahan (VIII) +10</td>
-<td><img src="./zipper.jpg" width="50" height="80"/>Zipper Bear  ★</td>
+<td><img src="./dullahan.png" width="50" height="50"/><br>Eye of Dullahan (VIII) +10</td>
+<td><img src="./zipper.jpg" width="50" height="70"/><br>Zipper Bear  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 2</td>
-<td><img src="./orlean.png" width="50" height="50"/>Orleans’s Gloves (VIII)</td>
-<td><img src="./zipper.jpg" width="50" height="80"/>Zipper Bear  ★</td>
+<td><img src="./orlean.png" width="50" height="50"/><br>Orleans’s Gloves (VIII)</td>
+<td><img src="./zipper.jpg" width="50" height="70"/><br>Zipper Bear  ★</td>
 </tr>
 <tr>
 <td>Голова</td>
-<td><img src="./coif.png" width="50" height="50"/>Coif<br><img src="./wind_traveler.png" width="50" height="50"/>Wind Traveler</td>
-<td><img src="./sealed.jpg" width="50" height="80"/>Sealed Apocalypse</td>
+<td><img src="./coif.png" width="50" height="50"/><br>Coif<br>или<br><img src="./wind_traveler.png" width="50" height="50"/><br>Wind Traveler</td>
+<td><img src="./sealed.jpg" width="50" height="70"/><br>Sealed Apocalypse</td>
 </tr>
 <tr>
 <td>Лицо</td>
-<td><img src="./eye.png" width="50" height="50"/>Evil Eye</td>
+<td><img src="./eye.png" width="50" height="50"/><br>Evil Eye</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Рот</td>
-<td><img src="./ceremony.png" width="50" height="50"/>Ceremony - Spinning Sweet Dream<br><img src="./magic_bubble.png" width="50" height="50"/>Magic Bubble Gum</td>
+<td><img src="./ceremony.png" width="50" height="50"/><br>Ceremony - Spinning Sweet Dream<br>или<br><img src="./magic_bubble.png" width="50" height="50"/><br>Magic Bubble Gum</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Спина</td>
-<td><img src="./ashy.png" width="50" height="50"/>Ashy Star Flying Feather<br><img src="./staff.png" width="50" height="50"/>The Ancient One’s Staff</td>
+<td><img src="./ashy.png" width="50" height="50"/><br>Ashy Star Flying Feather<br>или<br><img src="./staff.png" width="50" height="50"/><br>The Ancient One’s Staff</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Хвост</td>
-<td><img src="./peter.png" width="50" height="50"/>Peter Wendy</td>
+<td><img src="./peter.png" width="50" height="50"/><br>Peter Wendy</td>
 <td>-</td>
 </tr>
 </tbody>
