@@ -27,7 +27,7 @@
 <tr>
 <td>Накидка</td>
 <td><img src="./natto.png" width="50" height="50"/><br>Natto Kig’s Manteau +10</td>
-<td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy ★</td>
+<td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy</td>
 </tr>
 <tr>
 <td>Броня</td>
