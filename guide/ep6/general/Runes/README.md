@@ -333,4 +333,4 @@
 <p>Вы можете сделать это, используя три одинаковые руны.</p>
 <img src="./Images/Reroll.jpg" />
 <h2 id="Руны-по-профессиям">Руны по профессиям</h2>
-<p>Полный список рун по профессиям вы можете найти <a target="_blank" href="https://rom-foxes.github.io/info/guide/ep6/general/Runes/newrunes/"> здесь</a></p> .</p>
+<p>Полный список рун по профессиям вы можете найти <a target="_blank" href="https://rom-foxes.github.io/info/guide/ep6/general/Runes/newrunes/"> здесь</a>.</p>
