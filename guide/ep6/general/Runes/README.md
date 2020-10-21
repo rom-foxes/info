@@ -333,15 +333,4 @@
 <p>Вы можете сделать это, используя три одинаковые руны.</p>
 <img src="./Images/Reroll.jpg" />
 <h2 id="Руны-по-профессиям">Руны по профессиям</h2>
-<p>Данный раздел ещё будет переведён.</p>
-<img src="./Classes/RK.jpg" />
-<img src="./Classes/RG.jpg" />
-<img src="./Classes/Bish.jpg" />
-<img src="./Classes/Shura.jpg" />
-<img src="./Classes/Chaser.jpg" />
-<img src="./Classes/GC.jpg" />
-<img src="./Classes/Gen.jpg" />
-<img src="./Classes/Mech.jpg" />
-<img src="./Classes/Lock.jpg" />
-<img src="./Classes/Sorc.jpg" />
-<img src="./Classes/Rang.jpg" />
+<p>Полный список рун по профессиям вы можете найти <a target="_blank" href="https://rom-foxes.github.io/info/guide/ep6/general/Runes/newrunes/"> здесь</a></p> .</p>
