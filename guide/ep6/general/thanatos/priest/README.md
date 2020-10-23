@@ -16,27 +16,27 @@
 <tr>
 <td>Оружие</td>
 <td><img src="./weapon.png" width="50" height="50"/><br>Stardust Dragon Staff +10</td>
-<td><img src="./abysmal.jpg" width="50" height="70"/><br>Abysmal Knight x2</td>
+<td><img src="./sting.jpg" width="50" height="70"/><br>Sting ★ x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
 <td><img src="./offhand.png" width="50" height="50"/><br>Static Shield (V) +10</td>
-<td><img src="./telepathy.jpg" width="50" height="70"/><br>Telepathy Amplification</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Накидка</td>
 <td><img src="./garm.png" width="50" height="50"/><br>Survivor's Manteau (III) +10</td>
-<td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy</td>
+<td><img src="./muka.jpg" width="50" height="70"/><br>Muka ★</td>
 </tr>
 <tr>
 <td>Броня</td>
 <td><img src="./arm.png" width="50" height="50"/><br>Comet Warfare Armor +10</td>
-<td><img src="./munak.jpg" width="50" height="70"/><br>Munak ★</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Ботинки</td>
 <td><img src="./boot.png" width="50" height="50"/><br>Rune Boots (IV)</td>
-<td><img src="./familiar.jpg" width="50" height="70"/><br>Familiar  ★</td>
+<td><img src="./ferus.jpg" width="50" height="70"/><br>Ferus</td>
 </tr>
 <tr>
 <td>Аксессуар 1, 2</td>
