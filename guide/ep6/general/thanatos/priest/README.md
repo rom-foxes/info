@@ -15,80 +15,78 @@
 <tbody>
 <tr>
 <td>Оружие</td>
-<td><img src="./Wiz_power.png" width="50" height="50"/><br>Wizard’s Force +10</td>
+<td><img src="./Wiz_power.png" width="50" height="50"/><br>Stardust Dragon Staff +10</td>
 <td><img src="./abysmal.jpg" width="50" height="70"/><br>Abysmal Knight x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
-<td><img src="./Sacrifice.png" width="50" height="50"/><br>Sacrifice Book +10</td>
+<td><img src="./Sacrifice.png" width="50" height="50"/><br>Static Shield (V) +10</td>
 <td><img src="./telepathy.jpg" width="50" height="70"/><br>Telepathy Amplification</td>
 </tr>
 <tr>
 <td>Накидка</td>
-<td><img src="./natto.png" width="50" height="50"/><br>Natto Kig’s Manteau +10</td>
+<td><img src="./natto.png" width="50" height="50"/><br>Survivor's Manteau (III) +10</td>
 <td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy</td>
 </tr>
 <tr>
 <td>Броня</td>
-<td><img src="./gown.png" width="50" height="50"/><br>Star Shatter’s Gown +10</td>
+<td><img src="./gown.png" width="50" height="50"/><br>Comet Warfare Armor +10</td>
 <td><img src="./munak.jpg" width="50" height="70"/><br>Munak ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
-<td><img src="./pumps.png" width="50" height="50"/><br>Crystal Pumps (IV) +8</td>
+<td><img src="./pumps.png" width="50" height="50"/><br>Rune Boots (IV)</td>
 <td><img src="./familiar.jpg" width="50" height="70"/><br>Familiar  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 1, 2</td>
-<td><img src="./dullahan.png" width="50" height="50"/><br>Eye of Dullahan (VIII) +10</td>
+<td><img src="./dullahan.png" width="50" height="50"/><br>Endurance Necklace (IV)</td>
 <td><img src="./zipper.jpg" width="50" height="70"/><br>Zipper Bear  ★</td>
 </tr>
 </tbody>
 </table><p>Остальные предметы инвенаря заполняются тоже так, чтобы повысить вашу выживаемость. Крайне рекомендуется приобрести сет из торгового автомата в гильдхолле. Безусловно, повышать свою выживаемсоть надо, скупая дешевые карты, делая шапки и мебель.</p>
 <p>Данный шмот - не минимальные требования. Минимальные требования получаются эмпирическим путём. Основное требование к шмоту - прист не должен ни разу умирать в Башне Танатоса. Разумеется, это требование относится ко всем, но для приста оно важнее всех, кроме, возможно, танка.</p>
-<p>Варлоки на третьем этаже могут наносить огромный урон, если им повезло получить дополнительную строчку на Soul Elegy Rune.</p>
+<p>Крайне рекомендуется зароллить Silent Prayer Rune, чтобы эффективность оратио существенно возросла.</p>
 <img src="./rune.PNG"/>
-<p>Данная строчка даёт вам полный игнор Магической защиты для умения <img src="./expansion.png" width="50" height="50"/> Soul Expansion (Расширение души). Если вам повезло достать эту руну, то вы можете одеваться так, чтобы по максимуму увеличить ваш MATK, полностью отказываясь от предметов на Игнор Мдефа. На четвёртом этаже данная руна бессмыслена, так как вы будете бить другим умением.</p>
 <h2 id="умения">Умения</h2>
-<p><img src="./recognized.png" width="50" height="50"/> Recognized Spell (Знакомое заклинание) (lvl 10)</p>
-<p><img src="./expansion.png" width="50" height="50"/> Soul Expansion (Расширение души) (lvl 15)</p>
-<p><img src="./absorb.png" width="50" height="50"/> HP Absorb (Коэффициент поглощения) (lvl 10)</p>
-<p><img src="./imprison.png" width="50" height="50"/> White Imprison (Белая тюрьма) (lvl 5)</p>
-<p><img src="./barrier.png" width="50" height="50"/> White Barrier (Белый барьер) (lvl 6)</p>
-<p><img src="./focus.png" width="50" height="50"/> Force Focus (Фокусировка силы) (lvl 10)</p>
-<p><img src="./fast.png" width="50" height="50"/> Fast Reading Spell (Краткое заклинание) (lvl 5)</p>
-<p>9 свободных очков</p>
+<p>Необходим стандартный билд ФС приста. Причём на ручном касте у вас будут следующие умения:</p>
+<ul>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Coluceo Heal () (lvl 10)</p>
+</li>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Oratio (Отлучение) (lvl 10)</p>
+</li>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Aspersio (Асперзио) (lvl 2)</p>
+</li>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Epiclesis () (lvl 10)</p>
+</li>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)</p>
+</li>
+<li>
+<p><img src="./recognized.png" width="50" height="50"/> Safety Wall (Защитная стена) (lvl 10)</p>
+</li>
 <h2 id="руны-в-монументе">Руны в монументе</h2>
 <p>Основные руны, которые нужно взять:</p>
 <ul>
 <li>
-<p>4 руны на <img src="./absorb.png" width="50" height="50"/> HP  Absorb (Коэффициент поглощения).</p>
+<p>4 руны на <img src="./absorb.png" width="50" height="50"/> Oratio (Отлучение).</p>
 </li>
 <li>
-<p>5 рун на <img src="./expansion.png" width="50" height="50"/> Soul Expansion (Расширение души).</p>
-</li>
-<li>
-<p>3 руны на нейтральный урон.</p>
-</li>
-<li>
-<p>3 руны на урон гостом.</p>
+<p>3 рунs на <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио).</p>
 </li>
 </ul>
 <p>После взятия всех рун ваш монумент будет выглядеть приблизительно так:</p>
 <img src="./monument.png"/> 
-<p>Всего на это у вас уйдёт 142 650 контрибуции и 332 золотые медали.</p>
+<p>Всего на это у вас уйдёт 104 850 контрибуции и 266 золотых медалей.</p>
 <h2 id="действия">Действия</h2>
 <h3 id="третий-этаж">Третий этаж</h3>
-<p>На данном этаже вы внимательно смотрите на цвет зоны, где вам нужно находиться, и перемещаетесь туда.</p>
-<p>Советую вам купить за очки приключений умение <img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите). Оно существенно сократит время вашего обкаста и количество занимаемых слотов на панели.</p>
-<p>Умения кастуются приблизительно в следующем порядке:</p>
-<p><img src="./elite.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./imprison.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./expansion.png" width="50" height="50"/> <img src="./elite.png" width="50" height="50"/></p><br>
-<p>Для удобства можете поставить умения на авто. Единственное - вам нужно нормально контролировать своего персонажа, чтобы вовремя выбегать из опасных зон.</p>
-<p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)  перекастовывается по мере окончания действия умения <img src="./coat.png" width="50" height="50"/> Energy  Coat (Энергетическое покрытие).</p>
-<p>Сначала всегда используется умение <img src="./imprison.png" width="50" height="50"/> White  Imprison (Белая тюрьма), так как карта в вашей второй руке увеличивает на 20% урон <img src="./expansion.png" width="50" height="50"/> Soul Expansion (Расширение души) на 5 секунд после применения <img src="./imprison.png" width="50" height="50"/> White  Imprison (Белая тюрьма).</p>
-<p>При необходимости, если вам угрожает опасность, используйте <img src="./barrier.png" width="50" height="50"/> White Barrier (Белый барьер).</p>
+<p>На данном этаже вы договариваетесь со вторым пристом и с танками, кто в какой заоне стоит, подбираете сферы и перемещаетесь в указанную зону. Покидаете вы эту зону только в случае, если в ей произойдёт взрым. После взрыва вы возвращаетесь обратно.</p>
+<p>Если в вашей патьке нет сага, который кастуен Fire Field (Огненное поле), то все физ дд (кроме мехов) должны быть под <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио).</p>
+<p>Под босса постоянно кладётся  <img src="./expansion.png" width="50" height="50"/> Oratio (Отлучение).</p>
 <h3 id="четвёртый-этаж">Четвёртый этаж</h3>
-<p>Первая стадия босса достаточно лёгкая. Бейте его комбинацией с третьего этажа. Против мобов, которые иногда вылезают, очень хорошо использовать <img src="./absorb.png" width="50" height="50"/> HP Absorb (Коэффициент поглощения), так как мобы от неё шотаются.</p>
-<p>Для второй стадии желательно иметь в альянсе двух визов, которые будут сменять друг друга. Порядок действий такой:</p>
-<p>Один из визов при старте второй стадии находится вне круга и копит ярость. На 40% ярости он улетает вниз. Внизу основное умение – <img src="./absorb.png" width="50" height="50"/> HP  Absorb (Коэффициент поглощения). И Бехолдеры, и Фриони шотаются этим умением. Ваша задача – как можно быстрее убивать Фриони. За один спуск вниз вы можете убить максимум две Фриони. Первую – приблизительно на 50% - 60% ярости. Вторую – на 90% - 98% ярости. Когда у вас накопилось 75% ярости, вы сообщаете об этом второму визу. Ни в коем случае вы не должны накопить 100% ярости. После убийства второй Фриони сразу же разговаривайте с НПЦ и выходите из другого мира. Если вдруг вы видите, что не успеваете убить вторую Фриони – выходите всё равно. Её может добить второй виз.</p>
-<p>Второй виз всё это время находится на поверхности и бьёт Танатоса связкой скиллов с третьего этажа и мобов <img src="./absorb.png" width="50" height="50"/> HP  Absorb (Коэффициент поглощения). Когда второй виз получает от первого информацию, что у первого виза накопилось 75% ярости, второй виз выходит за пределы круга и начинает копить ярость. На 40%, когда он улетит вниз, первый виз приблизительно в это время прилетает наверх. Цепочка замкнулась.</p>
+<p>На четвёртом этаже вне зависимости от наличия сага на всех физ дд (кроме мехов) кладётся <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио), а под босса кладётся <img src="./expansion.png" width="50" height="50"/> Oratio (Отлучение).</p>
+<p>Если вы вдруг улетели вниз, то незамедлительно дайте об этом знать. Есть шанс, что вы можете скооперироваться с визами и выйти, не нарушив их цикл убийства Фрионек. Если скооперироваться не поулчилось, а один прист есть сверху, имеет смысл накопить внизу 100% ярости (предупредив об этом команду) и прийти наверх в виде трупа, чтобы вас реснул второй прист.</p>
