@@ -41,7 +41,12 @@
 <tr>
 <td>Аксессуар 1, 2</td>
 <td><img src="./access.png" width="50" height="50"/><br>Endurance Necklace (IV)</td>
-<td><img src="./zipper.jpg" width="50" height="70"/><br>Zipper Bear  ★</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Голова</td>
+<td>-</td>
+<td><img src="./sealed.jpg" width="50" height="70"/><br>Sealed Lady White Snake</td>
 </tr>
 </tbody>
 </table><p>Остальные предметы инвенаря заполняются тоже так, чтобы повысить вашу выживаемость. Крайне рекомендуется приобрести сет из торгового автомата в гильдхолле. Безусловно, повышать свою выживаемсоть надо, скупая дешевые карты, делая шапки и мебель.</p>
