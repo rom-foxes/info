@@ -64,7 +64,7 @@
 <p><img src="./tree.png" width="50" height="50"/> Epiclesis (Эпиклезис) (lvl 10)</p>
 </li>
 <li>
-<p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)</p>
+<p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите) со всеми остальными баффами</p>
 </li>
 <li>
 <p><img src="./sw.png" width="50" height="50"/> Safety Wall (Защитная стена) (lvl 10)</p>
