@@ -52,7 +52,7 @@
 <p>Необходим стандартный билд ФС приста. Причём на ручном касте у вас будут следующие умения:</p>
 <ul>
 <li>
-<p><img src="./heal.png" width="50" height="50"/> Coluceo Heal () (lvl 10)</p>
+<p><img src="./heal.png" width="50" height="50"/> Coluceo Heal (Массовое лечение) (lvl 10)</p>
 </li>
 <li>
 <p><img src="./oratio.png" width="50" height="50"/> Oratio (Отлучение) (lvl 10)</p>
@@ -61,7 +61,7 @@
 <p><img src="./aspersio.png" width="50" height="50"/> Aspersio (Асперзио) (lvl 2)</p>
 </li>
 <li>
-<p><img src="./tree.png" width="50" height="50"/> Epiclesis () (lvl 10)</p>
+<p><img src="./tree.png" width="50" height="50"/> Epiclesis (Эпиклезис) (lvl 10)</p>
 </li>
 <li>
 <p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)</p>
