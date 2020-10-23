@@ -7,8 +7,11 @@
 <img src="./bard.png" />
 <img src="./dancer.png" />
 <img src="./hunter.png" />
+<img src="./knight.png" />
 <img src="./crusader.png" />
 <img src="./priest.png" />
 <img src="./monk.png" />
 <img src="./sage.png" />
 <img src="./warlock.png" />
+<img src="./ronin.png" />
+<img src="./sn.png" />
