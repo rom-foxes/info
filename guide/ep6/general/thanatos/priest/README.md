@@ -91,10 +91,10 @@
 По еде у пристов есть два варианта:
 <ul>
 <li>
-<p><img src="./salad.png" width="50" height="50"/> Original Will-Salad (Простой - Салат)</p>
+<p><img src="./salad.jpg" width="50" height="50"/> Original Will-Salad (Простой - Салат)</p>
 </li>
 <li>
-<p><img src="./fish.png" width="50" height="50"/> Original Will-Fish Steak (Простой - Рыбный стейк). Эту еду нужно использовать, есл вы не успеваете выбегать из АоЕ зон.</p>
+<p><img src="./fish.jpg" width="50" height="50"/> Original Will-Fish Steak (Простой - Рыбный стейк). Эту еду нужно использовать, есл вы не успеваете выбегать из АоЕ зон.</p>
 </li>
 </ul>
 
