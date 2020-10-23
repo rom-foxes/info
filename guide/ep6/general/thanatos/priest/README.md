@@ -15,68 +15,68 @@
 <tbody>
 <tr>
 <td>Оружие</td>
-<td><img src="./Wiz_power.png" width="50" height="50"/><br>Stardust Dragon Staff +10</td>
+<td><img src="./weapon.png" width="50" height="50"/><br>Stardust Dragon Staff +10</td>
 <td><img src="./abysmal.jpg" width="50" height="70"/><br>Abysmal Knight x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
-<td><img src="./Sacrifice.png" width="50" height="50"/><br>Static Shield (V) +10</td>
+<td><img src="./offhand.png" width="50" height="50"/><br>Static Shield (V) +10</td>
 <td><img src="./telepathy.jpg" width="50" height="70"/><br>Telepathy Amplification</td>
 </tr>
 <tr>
 <td>Накидка</td>
-<td><img src="./natto.png" width="50" height="50"/><br>Survivor's Manteau (III) +10</td>
+<td><img src="./garm.png" width="50" height="50"/><br>Survivor's Manteau (III) +10</td>
 <td><img src="./harpy.jpg" width="50" height="70"/><br>Harpy</td>
 </tr>
 <tr>
 <td>Броня</td>
-<td><img src="./gown.png" width="50" height="50"/><br>Comet Warfare Armor +10</td>
+<td><img src="./arm.png" width="50" height="50"/><br>Comet Warfare Armor +10</td>
 <td><img src="./munak.jpg" width="50" height="70"/><br>Munak ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
-<td><img src="./pumps.png" width="50" height="50"/><br>Rune Boots (IV)</td>
+<td><img src="./boot.png" width="50" height="50"/><br>Rune Boots (IV)</td>
 <td><img src="./familiar.jpg" width="50" height="70"/><br>Familiar  ★</td>
 </tr>
 <tr>
 <td>Аксессуар 1, 2</td>
-<td><img src="./dullahan.png" width="50" height="50"/><br>Endurance Necklace (IV)</td>
+<td><img src="./access.png" width="50" height="50"/><br>Endurance Necklace (IV)</td>
 <td><img src="./zipper.jpg" width="50" height="70"/><br>Zipper Bear  ★</td>
 </tr>
 </tbody>
 </table><p>Остальные предметы инвенаря заполняются тоже так, чтобы повысить вашу выживаемость. Крайне рекомендуется приобрести сет из торгового автомата в гильдхолле. Безусловно, повышать свою выживаемсоть надо, скупая дешевые карты, делая шапки и мебель.</p>
 <p>Данный шмот - не минимальные требования. Минимальные требования получаются эмпирическим путём. Основное требование к шмоту - прист не должен ни разу умирать в Башне Танатоса. Разумеется, это требование относится ко всем, но для приста оно важнее всех, кроме, возможно, танка.</p>
 <p>Крайне рекомендуется зароллить Silent Prayer Rune, чтобы эффективность оратио существенно возросла.</p>
-<img src="./rune.PNG"/>
+<img src="./rune.png"/>
 <h2 id="умения">Умения</h2>
 <p>Необходим стандартный билд ФС приста. Причём на ручном касте у вас будут следующие умения:</p>
 <ul>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Coluceo Heal () (lvl 10)</p>
+<p><img src="./heal.png" width="50" height="50"/> Coluceo Heal () (lvl 10)</p>
 </li>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Oratio (Отлучение) (lvl 10)</p>
+<p><img src="./oratio.png" width="50" height="50"/> Oratio (Отлучение) (lvl 10)</p>
 </li>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Aspersio (Асперзио) (lvl 2)</p>
+<p><img src="./aspersio.png" width="50" height="50"/> Aspersio (Асперзио) (lvl 2)</p>
 </li>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Epiclesis () (lvl 10)</p>
+<p><img src="./tree.png" width="50" height="50"/> Epiclesis () (lvl 10)</p>
 </li>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)</p>
+<p><img src="./elite.png" width="50" height="50"/> Prepare  for  Elite (Подготовка к элите)</p>
 </li>
 <li>
-<p><img src="./recognized.png" width="50" height="50"/> Safety Wall (Защитная стена) (lvl 10)</p>
+<p><img src="./sw.png" width="50" height="50"/> Safety Wall (Защитная стена) (lvl 10)</p>
 </li>
 <h2 id="руны-в-монументе">Руны в монументе</h2>
 <p>Основные руны, которые нужно взять:</p>
 <ul>
 <li>
-<p>4 руны на <img src="./absorb.png" width="50" height="50"/> Oratio (Отлучение).</p>
+<p>4 руны на <img src="./oratio.png" width="50" height="50"/> Oratio (Отлучение).</p>
 </li>
 <li>
-<p>3 рунs на <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио).</p>
+<p>3 рунs на <img src="./aspersio.png" width="50" height="50"/> Aspersio (Асперзио).</p>
 </li>
 </ul>
 <p>После взятия всех рун ваш монумент будет выглядеть приблизительно так:</p>
@@ -85,8 +85,8 @@
 <h2 id="действия">Действия</h2>
 <h3 id="третий-этаж">Третий этаж</h3>
 <p>На данном этаже вы договариваетесь со вторым пристом и с танками, кто в какой заоне стоит, подбираете сферы и перемещаетесь в указанную зону. Покидаете вы эту зону только в случае, если в ей произойдёт взрым. После взрыва вы возвращаетесь обратно.</p>
-<p>Если в вашей патьке нет сага, который кастуен Fire Field (Огненное поле), то все физ дд (кроме мехов) должны быть под <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио).</p>
-<p>Под босса постоянно кладётся  <img src="./expansion.png" width="50" height="50"/> Oratio (Отлучение).</p>
+<p>Если в вашей патьке нет сага, который кастуен Fire Field (Огненное поле), то все физ дд (кроме мехов) должны быть под <img src="./aspersio.png" width="50" height="50"/> Aspersio (Асперзио).</p>
+<p>Под босса постоянно кладётся  <img src="./oratio.png" width="50" height="50"/> Oratio (Отлучение).</p>
 <h3 id="четвёртый-этаж">Четвёртый этаж</h3>
-<p>На четвёртом этаже вне зависимости от наличия сага на всех физ дд (кроме мехов) кладётся <img src="./expansion.png" width="50" height="50"/> Aspersio (Асперзио), а под босса кладётся <img src="./expansion.png" width="50" height="50"/> Oratio (Отлучение).</p>
+<p>На четвёртом этаже вне зависимости от наличия сага на всех физ дд (кроме мехов) кладётся <img src="./aspersio.png" width="50" height="50"/> Aspersio (Асперзио), а под босса кладётся <img src="./oratio.png" width="50" height="50"/> Oratio (Отлучение).</p>
 <p>Если вы вдруг улетели вниз, то незамедлительно дайте об этом знать. Есть шанс, что вы можете скооперироваться с визами и выйти, не нарушив их цикл убийства Фрионек. Если скооперироваться не поулчилось, а один прист есть сверху, имеет смысл накопить внизу 100% ярости (предупредив об этом команду) и прийти наверх в виде трупа, чтобы вас реснул второй прист.</p>
