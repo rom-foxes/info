@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td>Голова</td>
-<td><img src="./coif.png" width="50" height="50"/><br>-</td>
+<td>-</td>
 <td><img src="./martin.jpg" width="50" height="70"/><br>Martin</td>
 </tr>
 <tr>
