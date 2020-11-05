@@ -15,62 +15,52 @@
 <tbody>
 <tr>
 <td>Оружие</td>
-<td><img src="./Wiz_power.png" width="50" height="50"/><br>Bow Of The Wind Chaser +10<br>или<br><img src="./wind_traveler.png" width="50" height="50"/><br>Overlord Crab Bow +10</td>
-<td><img src="./abysmal.jpg" width="50" height="70"/><br>Minorus x2</td>
+<td><img src="./chaser.png" width="50" height="50"/><br>Bow Of The Wind Chaser +10<br>или<br><img src="./crab.png" width="50" height="50"/><br>Overlord Crab Bow +10</td>
+<td><img src="./minorus.jpg" width="50" height="70"/><br>Minorus x2</td>
 </tr>
 <tr>
 <td>Вторая рука</td>
-<td><img src="./Sacrifice.png" width="50" height="50"/><br>Nile's Bracelet (VIII) +10</td>
-<td><img src="./telepathy.jpg" width="50" height="70"/><br>Dark Shadow Card (3-й этаж)</td>
+<td><img src="./nile.png" width="50" height="50"/><br>Nile's Bracelet (VIII) +10</td>
+<td><img src="./shadow.jpg" width="50" height="70"/><br>Dark Shadow Card (3-й этаж)</td>
 </tr>
 <tr>
 <td>Накидка</td>
-<td><img src="./natto.png" width="50" height="50"/><br>-</td>
-<td><img src="./harpy.jpg" width="50" height="70"/><br>-</td>
+<td><img src="./cape.png" width="50" height="50"/><br>Blueeve Cape +10</td>
+<td><img src="./celebration.jpg" width="50" height="70"/><br>Celebration Collection</td>
 </tr>
 <tr>
 <td>Броня</td>
-<td><img src="./gown.png" width="50" height="50"/><br>Dark Star Stealth Clothes +10 (при использовании Bow Of The Wind Chaser)<br>или<br><img src="./wind_traveler.png" width="50" height="50"/><br>Tyre's Armor +10 (при использовании Overlord Crab Bow)</td>
-<td><img src="./munak.jpg" width="50" height="70"/><br>-</td>
+<td><img src="./stealth.png" width="50" height="50"/><br>Dark Star Stealth Clothes +10 (при использовании Bow Of The Wind Chaser)<br>или<br><img src="./tyre.png" width="50" height="50"/><br>Tyre's Armor +10 (при использовании Overlord Crab Bow)</td>
+<td><img src="./skeleton.jpg" width="50" height="70"/><br>Archer Skeleton ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
-<td><img src="./pumps.png" width="50" height="50"/><br>Advanced Sack Teddy Shoes (IV)</td>
-<td><img src="./familiar.jpg" width="50" height="70"/><br>-</td>
+<td><img src="./sack.png" width="50" height="50"/><br>Advanced Sack Teddy Shoes (IV)</td>
+<td><img src="./mtb.jpg" width="50" height="70"/><br>Male Thief Bug</td>
 </tr>
 <tr>
 <td>Аксессуар 1</td>
-<td><img src="./dullahan.png" width="50" height="50"/><br>AGI Pin (VI) +10</td>
-<td><img src="./zipper.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./wind_traveler.png" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
+<td><img src="./agi.png" width="50" height="50"/><br>AGI Pin (VI) +10</td>
+<td><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
 </tr>
 <tr>
 <td>Аксессуар 2</td>
-<td><img src="./orlean.png" width="50" height="50"/><br>Fairy In Bottle (IV) +10</td>
-<td><img src="./zipper.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./wind_traveler.png" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
+<td><img src="./fairy.png" width="50" height="50"/><br>Fairy In Bottle (IV) +10</td>
+<td><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
 </tr>
 <tr>
 <td>Голова</td>
 <td><img src="./coif.png" width="50" height="50"/><br>-</td>
-<td><img src="./sealed.jpg" width="50" height="70"/><br>Martin</td>
-</tr>
-<tr>
-<td>Лицо</td>
-<td><img src="./eye.png" width="50" height="50"/><br>-</td>
-<td>-</td>
+<td><img src="./martin.jpg" width="50" height="70"/><br>Martin</td>
 </tr>
 <tr>
 <td>Рот</td>
-<td><img src="./ceremony.png" width="50" height="50"/><br>-</td>
+<td><img src="./blow.png" width="50" height="50"/><br>Blow gun +10</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Спина</td>
-<td><img src="./ashy.png" width="50" height="50"/><br>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Хвост</td>
-<td><img src="./peter.png" width="50" height="50"/><br>-</td>
+<td><img src="./bag.png" width="50" height="50"/><br>Adventurer Bag +10</td>
 <td>-</td>
 </tr>
 </tbody>
