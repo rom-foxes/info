@@ -21,7 +21,7 @@
 <tr>
 <td>Вторая рука</td>
 <td><img src="./nile.png" width="50" height="50"/><br>Nile's Bracelet (VIII) +10</td>
-<td><img src="./shadow.jpg" width="50" height="70"/><br>Dark Shadow Card (3-й этаж)</td>
+<td><img src="./shadow.jpg" width="50" height="70"/><br>Dark Shadow Card (4-й этаж)</td>
 </tr>
 <tr>
 <td>Накидка</td>
@@ -41,12 +41,12 @@
 <tr>
 <td>Аксессуар 1</td>
 <td><img src="./agi.png" width="50" height="50"/><br>AGI Pin (VI) +10</td>
-<td><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
+<td><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (3-й этаж)<br>и<br><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (4-й этаж)</td>
 </tr>
 <tr>
 <td>Аксессуар 2</td>
 <td><img src="./fairy.png" width="50" height="50"/><br>Fairy In Bottle (IV) +10</td>
-<td><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (3-й этаж)<br>и<br><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (4-й этаж)</td>
+<td><img src="./mao.jpg" width="50" height="50"/><br>Mao Guai (3-й этаж)<br>и<br><img src="./santa.jpg" width="50" height="70"/><br>Santa Poring (4-й этаж)</td>
 </tr>
 <tr>
 <td>Голова</td>
