@@ -51,7 +51,7 @@
 <tr>
 <td>Голова</td>
 <td>-</td>
-<td><img src="./martin.jpg" width="50" height="70"/><br>Martin</td>
+<td><img src="./martin.jpg" width="50" height="70"/><br>Martin (4-й этаж)</td>
 </tr>
 <tr>
 <td>Рот</td>
