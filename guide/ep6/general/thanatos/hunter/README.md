@@ -31,7 +31,7 @@
 <tr>
 <td>Броня</td>
 <td><img src="./stealth.png" width="50" height="50"/><br>Dark Star Stealth Clothes +10 (при использовании Bow Of The Wind Chaser)<br>или<br><img src="./tyre.png" width="50" height="50"/><br>Tyre's Armor +10 (при использовании Overlord Crab Bow)</td>
-<td><img src="./skeleton.jpg" width="50" height="70"/><br>Archer Skeleton ★</td>
+<td><img src="./archer.jpg" width="50" height="70"/><br>Archer Skeleton ★</td>
 </tr>
 <tr>
 <td>Ботинки</td>
