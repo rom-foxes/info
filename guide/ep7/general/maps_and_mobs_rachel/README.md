@@ -20,33 +20,52 @@
 <tbody>
 <tr>
 <td>
-  <img src="./Mobs/Metaling.png" /><br>
-  Металлинг<br>
-  (Ур 125)
+  <img src="./Mobs/Dark_Sword.png" /><br>
+  Тёмный Мечник<br>
+  (Ур 131)
   </td>
-<td>Бесформенный<br> Нейтрал<br> Маленький</td>
-<td><img src="./Cards/Metaling_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  АТК +20. При нанесении физического урона есть 5% шанс использовать Lv 1 [Strip  Accessory]. [Эффект карт не складывается.] <br><strong>Депозит:</strong>  МАТК+3, Макс ХП +36 <br><strong>Получение:</strong>  Макс ХП +60</td>
+<td>Получеловек<br> Огонь<br> Средний</td>
+<td><img src="./Cards/Dark_Sword_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Breeze.png" /><br>
-  Бриз<br>
-  (Ур 127)
+  <img src="./Mobs/Dark_Merch.png" /><br>
+  Тёмный Торговец<br>
+  (Ур 132)
   </td>
-<td>Бесформенный<br> Ветер<br> Средний</td>
-<td><img src="./Cards/Breeze_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  АТК +20. При атаке есть 5% шанс нанести [Bleed] на 3 секунды. [Эффект карт не складывается.] <br><strong>Депозит</strong>:  Макс ХП +72<strong>Получение:</strong>  МАТК +8</td>
+<td>Получеловек<br> Земля<br> Средний</td>
+<td><img src="./Cards/Dark_Merch_card.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Martin.png" /><br>
-  Мусорщик Мартин<br>
-  (Ур 129)
+  <img src="./Mobs/Dark_thief.png" /><br>
+  Тёмный Вор<br>
+  (Ур 132)
   </td>
-<td>Брут<br> Земля<br> Маленький</td>
-<td><img src="./Cards/Martin_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  АТК +20. При нанесении физического урона есть 5% шанс использовать Lv 1 [Strip  Accessory]. [Эффект карт не складывается.] <strong>Вторая рука</strong> <br><br><strong>Эффект:</strong>  Урон [Storm  Gust] увеличен на 5%  <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  АТК +3</td>
+<td>Получеловек<br> Яд<br> Средний</td>
+<td><img src="./Cards/Dark_thief_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Mutate.png" /><br>
+  Мутировавший Слизень<br>
+  (Ур 130)
+  </td>
+<td>Демон<br> Тень<br> Маленький</td>
+<td><img src="./Cards/Mutate.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Remover.png" /><br>
+  Уничтожитель<br>
+  (Ур 126)
+  </td>
+<td>Нежить<br> Нежить<br> Средний</td>
+<td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
 </tr>
 </tbody>
-</table><p>С этой карты игрок может пройти в Ледяную Пещеру.</p>
+</table>
+<p>С этой карты игрок может пройти в Ледяную Пещеру.</p>
 <h2 id="лайтхайзен">Ледяная пещера</h2>
 <img src="./Maps/Light.png" />
 <p>Пещеру населяют водные мобы, мини босс (Gazeti) и МВП (Ktullanux)</p>
@@ -122,12 +141,48 @@
 <tbody>
 <tr>
 <td>
-  <img src="./Mobs/Cecil.png" /><br>
-  Cecil Damon<br>
-  (Ур 137)
+  <img src="./Mobs/Dark_Sword.png" /><br>
+  Тёмный Мечник<br>
+  (Ур 131)
   </td>
-<td>Получеловек<br> Ветер<br> Средний</td>
-<td><img src="./Cards/Cecil_card.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  Крит +5, Восстановление ХП -100%. При нанесении дистанционного урона есть 30% шанс восстановить жизнь в размере 20% от нанесённого урона [Эффект карт не складывается.] <br><strong>Депозит:</strong>  Крит +1, Критический урон +1% <br><strong>Получение:</strong> МАТК +12</td>
+<td>Получеловек<br> Огонь<br> Средний</td>
+<td><img src="./Cards/Dark_Sword_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Dark_Merch.png" /><br>
+  Тёмный Торговец<br>
+  (Ур 132)
+  </td>
+<td>Получеловек<br> Земля<br> Средний</td>
+<td><img src="./Cards/Dark_Merch_card.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Dark_thief.png" /><br>
+  Тёмный Вор<br>
+  (Ур 132)
+  </td>
+<td>Получеловек<br> Яд<br> Средний</td>
+<td><img src="./Cards/Dark_thief_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Mutate.png" /><br>
+  Мутировавший Слизень<br>
+  (Ур 130)
+  </td>
+<td>Демон<br> Тень<br> Маленький</td>
+<td><img src="./Cards/Mutate.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+</tr>
+<tr>
+<td>
+  <img src="./Mobs/Remover.png" /><br>
+  Уничтожитель<br>
+  (Ур 126)
+  </td>
+<td>Нежить<br> Нежить<br> Средний</td>
+<td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
 </tr>
 </tbody>
 </table>
