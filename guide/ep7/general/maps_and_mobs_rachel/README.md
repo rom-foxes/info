@@ -20,48 +20,48 @@
 <tbody>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Sword.png" /><br>
-  Тёмный Мечник<br>
-  (Ур 131)
+  <img src="./Mobs/stapo.png" /><br>
+  Stapo<br>
+  (Ур 133)
   </td>
-<td>Получеловек<br> Огонь<br> Средний</td>
-<td><img src="./Cards/Dark_Sword_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+<td>Бесформенный<br> Земля<br>Маленький</td>
+<td><img src="./Cards/stapo.jpg" /><br><strong>Шапка</strong> <br><br><strong>Эффект:</strong>MDEF +30<br>Сопротивление окаменению +15%<br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Atk +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Merch.png" /><br>
-  Тёмный Торговец<br>
-  (Ур 132)
+  <img src="./Mobs/grass.png" /><br>
+  Man-eating grass<br>
+  (Ур 135)
   </td>
-<td>Получеловек<br> Земля<br> Средний</td>
-<td><img src="./Cards/Dark_Merch_card.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+<td>Растение<br>Земля<br>Средний</td>
+<td><img src="./Cards/grass.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>Поулчаемое лечение +5%<br>При получении физического урона от умения, есть 10% шанс использовать умение Лечение 10-го уровня<br><strong>Депозит:</strong> MDEF +4.5<br><strong>Получение:</strong> Поулчаемое лечение +1%</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_thief.png" /><br>
-  Тёмный Вор<br>
-  (Ур 132)
+  <img src="./Mobs/roween.png" /><br>
+  Roween<br>
+  (Ур 137)
   </td>
-<td>Получеловек<br> Яд<br> Средний</td>
-<td><img src="./Cards/Dark_thief_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+<td>Брут<br>Ветер<br>Средний</td>
+<td><img src="./Cards/roween.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>Flee +10<br>Урон по водным мобам +10%<br>Крит против Рыб +20<br><strong>Депозит:</strong>  Урона против Рыб +1% <br><strong>Получение:</strong>  Макс ХП +60</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Mutate.png" /><br>
-  Мутировавший Слизень<br>
-  (Ур 130)
+  <img src="./Mobs/galion.png" /><br>
+  Galion<br>
+  (Ур 143)
   </td>
-<td>Демон<br> Тень<br> Маленький</td>
-<td><img src="./Cards/Mutate.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+<td>Брут<br>Ветер<br>Средний</td>
+<td><img src="./Cards/galion.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong> HIT +50 <br> Урон по водным мобам +20%  <br><strong>Депозит:</strong>  DEF+3 Макс ХП +36 <br><strong>Получение:</strong>MATK +8</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Remover.png" /><br>
-  Уничтожитель<br>
-  (Ур 126)
+  <img src="./Mobs/hw.png" /><br>
+  Hill Wind<br>
+  (Ур 147)
   </td>
-<td>Нежить<br> Нежить<br> Средний</td>
-<td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
+<td>Брут<br>Ветер<br>Большой</td>
+<td><img src="./Cards/hw.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Урон от Jupitel Thunder, Lightning Bolt, Lord of Vermilion и Thunderbolt +25%  <br><strong>Депозит:</strong>  Макс ХП +112  <br><strong>Получение:</strong>  АТК +12</td>
 </tr>
 </tbody>
 </table>
@@ -80,48 +80,48 @@
 <tbody>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Sword.png" /><br>
-  Тёмный Мечник<br>
-  (Ур 131)
+  <img src="./Mobs/lsiroma.png" /><br>
+  Little Siroma<br>
+  (Ур 134)
   </td>
-<td>Получеловек<br> Огонь<br> Средний</td>
-<td><img src="./Cards/Dark_Sword_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+<td>Бесформенный<br>Вода<br>Маленький</td>
+<td><img src="./Cards/lsiroma.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Merch.png" /><br>
-  Тёмный Торговец<br>
-  (Ур 132)
+  <img src="./Mobs/siroma.png" /><br>
+  Siroma<br>
+  (Ур 136)
   </td>
-<td>Получеловек<br> Земля<br> Средний</td>
-<td><img src="./Cards/Dark_Merch_card.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+<td>Бесформенный<br>Вода<br>Большой</td>
+<td><img src="./Cards/siroma.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_thief.png" /><br>
-  Тёмный Вор<br>
-  (Ур 132)
+  <img src="./Mobs/marin.png" /><br>
+  Marin<br>
+  (Ур 138)
   </td>
-<td>Получеловек<br> Яд<br> Средний</td>
-<td><img src="./Cards/Dark_thief_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+<td>Растение<br>Вода<br>Средний</td>
+<td><img src="./Cards/marin.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Mutate.png" /><br>
-  Мутировавший Слизень<br>
-  (Ур 130)
+  <img src="./Mobs/gazeti.png" /><br>
+  Gazeti<br>
+  (Ур 142)
   </td>
-<td>Демон<br> Тень<br> Маленький</td>
-<td><img src="./Cards/Mutate.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+<td>Бесформенный<br>Вода<br>Большой</td>
+<td><img src="./Cards/gazeti.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Remover.png" /><br>
-  Уничтожитель<br>
-  (Ур 126)
+  <img src="./Mobs/ktullanux.png" /><br>
+  Ktullanux<br>
+  (Ур 145)
   </td>
-<td>Нежить<br> Нежить<br> Средний</td>
-<td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
+<td>Брут<br>Вода<br>Большой</td>
+<td><img src="./Cards/ktullanux.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
 </tr>
 </tbody>
 </table><p>Следующая наша локация - сам город Ракель.</p>
@@ -141,48 +141,48 @@
 <tbody>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Sword.png" /><br>
-  Тёмный Мечник<br>
-  (Ур 131)
+  <img src="./Mobs/hodremlin.png" /><br>
+  Hodremlin<br>
+  (Ур 132)
   </td>
 <td>Получеловек<br> Огонь<br> Средний</td>
-<td><img src="./Cards/Dark_Sword_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+<td><img src="./Cards/hodremlin.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_Merch.png" /><br>
-  Тёмный Торговец<br>
-  (Ур 132)
+  <img src="./Mobs/de.png" /><br>
+  Devil's Eye<br>
+  (Ур 139)
   </td>
 <td>Получеловек<br> Земля<br> Средний</td>
-<td><img src="./Cards/Dark_Merch_card.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+<td><img src="./Cards/de.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Dark_thief.png" /><br>
-  Тёмный Вор<br>
-  (Ур 132)
+  <img src="./Mobs/rde.png" /><br>
+  Red Devil's Eye<br>
+  (Ур 141)
   </td>
 <td>Получеловек<br> Яд<br> Средний</td>
-<td><img src="./Cards/Dark_thief_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+<td><img src="./Cards/rde.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Mutate.png" /><br>
-  Мутировавший Слизень<br>
-  (Ур 130)
+  <img src="./Mobs/bishop.png" /><br>
+  Fallen Bishop<br>
+  (Ур 144)
   </td>
 <td>Демон<br> Тень<br> Маленький</td>
-<td><img src="./Cards/Mutate.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+<td><img src="./Cards/bishop.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
 </tr>
 <tr>
 <td>
-  <img src="./Mobs/Remover.png" /><br>
-  Уничтожитель<br>
-  (Ур 126)
+  <img src="./Mobs/gloom.png" /><br>
+  Gloom Under Night<br>
+  (Ур 148)
   </td>
 <td>Нежить<br> Нежить<br> Средний</td>
-<td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
+<td><img src="./Cards/gloom.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
 </tr>
 </tbody>
 </table>
