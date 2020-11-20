@@ -104,24 +104,6 @@
 <td>Нежить<br> Нежить<br> Средний</td>
 <td><img src="./Cards/Remover.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
 </tr>
-<tr>
-<td>
-  <img src="./Mobs/Armaia.png" /><br>
-  Armaia Dinze<br>
-  (Ур 136)
-  </td>
-<td>Получеловек<br> Земля<br> Средний</td>
-<td><img src="./Cards/Armaia_card.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от нейтрального элемента на 10%. Урон от [Mammonite] увеличен на 15%  <br><strong>Депозит:</strong>  МДеф +3, Макс ХП +36  <br><strong>Получение:</strong>  АТК +8</td>
-</tr>
-<tr>
-<td>
-  <img src="./Mobs/Eremes.png" /><br>
-  Eremes Guile<br>
-  (Ур 138)
-  </td>
-<td>Получеловек<br> Яд<br> Средний</td>
-<td><img src="./Cards/Eremes_card.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +10%. При получении физического урона есть 100% шанс применить [Venom  Attack] 1 Уроня. <br><strong>Депозит:</strong>  Макс ХП +112  <br><strong>Получение:</strong>  Деф +1%, МДеф +1%</td>
-</tr>
 </tbody>
 </table><p>Следующая наша локация - сам город Ракель.</p>
 <h2 id="второй-этаж-биологической-лаборатории-западное-крыло">Ракель</h2>
