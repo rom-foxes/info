@@ -25,7 +25,7 @@
   (Ур 133)
   </td>
 <td>Бесформенный<br> Земля<br>Маленький</td>
-<td><img src="./Cards/stapo.jpg" /><br><strong>Шапка</strong> <br><br><strong>Эффект:</strong>MDEF +30<br>Сопротивление окаменению +15%<br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Atk +3</td>
+<td><img src="./Cards/stapo.jpg" /><br><strong>Вторая рука</strong> <br><br><strong>Эффект:</strong>MDEF +30<br>Сопротивление окаменению +15%<br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Atk +3</td>
 </tr>
 <tr>
 <td>
@@ -34,7 +34,7 @@
   (Ур 135)
   </td>
 <td>Растение<br>Земля<br>Средний</td>
-<td><img src="./Cards/grass.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>Поулчаемое лечение +5%<br>При получении физического урона от умения, есть 10% шанс использовать умение Лечение 10-го уровня<br><strong>Депозит:</strong> MDEF +4.5<br><strong>Получение:</strong> Поулчаемое лечение +1%</td>
+<td><img src="./Cards/grass.jpg" /><br><strong>Вторая рука</strong> <br><br><strong>Эффект:</strong>Поулчаемое лечение +5%<br>При получении физического урона от умения, есть 10% шанс использовать умение Лечение 10-го уровня<br><strong>Депозит:</strong> MDEF +4.5<br><strong>Получение:</strong> Поулчаемое лечение +1%</td>
 </tr>
 <tr>
 <td>
@@ -52,7 +52,7 @@
   (Ур 143)
   </td>
 <td>Брут<br>Ветер<br>Средний</td>
-<td><img src="./Cards/galion.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong> HIT +50 <br> Урон по водным мобам +20%  <br><strong>Депозит:</strong>  DEF+3 Макс ХП +36 <br><strong>Получение:</strong>MATK +8</td>
+<td><img src="./Cards/galion.jpg" /><br><strong>Аксессуар</strong>, <br><br><strong>Эффект:</strong> HIT +50 <br> Урон по водным мобам +20%  <br><strong>Депозит:</strong>  DEF+3 Макс ХП +36 <br><strong>Получение:</strong>MATK +8</td>
 </tr>
 <tr>
 <td>
@@ -61,7 +61,7 @@
   (Ур 147)
   </td>
 <td>Брут<br>Ветер<br>Большой</td>
-<td><img src="./Cards/hw.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Урон от Jupitel Thunder, Lightning Bolt, Lord of Vermilion и Thunderbolt +25%  <br><strong>Депозит:</strong>  Макс ХП +112  <br><strong>Получение:</strong>  АТК +12</td>
+<td><img src="./Cards/hw.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>  Урон от Jupitel Thunder, Lightning Bolt, Lord of Vermilion и Thunderbolt +25%  <br><strong>Депозит:</strong>  Макс ХП +112  <br><strong>Получение:</strong>  АТК +12</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@
   (Ур 134)
   </td>
 <td>Бесформенный<br>Вода<br>Маленький</td>
-<td><img src="./Cards/lsiroma.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+<td><img src="./Cards/lsiroma.jpg" /><br><strong>Шапка</strong> <br><br><strong>Эффект:</strong>  Фиксированное время каста умения Cold Bolt -0.2 сек<br>Урон от умения Cold Bolt +10% <br><strong>Депозит:</strong>  При экипировки с картой Siroma урон от Cold Bolt увеличивается на 2% <br><strong>Получение:</strong>  Def +4.5</td>
 </tr>
 <tr>
 <td>
@@ -94,7 +94,7 @@
   (Ур 136)
   </td>
 <td>Бесформенный<br>Вода<br>Большой</td>
-<td><img src="./Cards/siroma.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+<td><img src="./Cards/siroma.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>Урон водным монстрам +15%<br>Получаемный урон от водных монстров -5%<br><strong>Депозит:</strong> Max HP +72  <br><strong>Получение:</strong> MATK +3, Max HP +36</td>
 </tr>
 <tr>
 <td>
@@ -103,7 +103,7 @@
   (Ур 138)
   </td>
 <td>Растение<br>Вода<br>Средний</td>
-<td><img src="./Cards/marin.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+<td><img src="./Cards/marin.jpg" /><br><strong>Ботинки</strong> <br><br><strong>Эффект:</strong>VIT +3<br>Сопротивление страху +10%<br><strong>Депозит:</strong>  MDEF +3<br><strong>Получение:</strong>  DEF +3</td>
 </tr>
 <tr>
 <td>
@@ -112,7 +112,7 @@
   (Ур 142)
   </td>
 <td>Бесформенный<br>Вода<br>Большой</td>
-<td><img src="./Cards/gazeti.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+<td><img src="./Cards/gazeti.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>Скорость передвижения +3%<br>Снижение урона +10%<br><strong>Депозит:</strong>  При экипировки с картой Gazeti скорость передвижения +2%  <br><strong>Получение:</strong>  MDEF +1%, DEF +1%</td>
 </tr>
 <tr>
 <td>
@@ -121,11 +121,11 @@
   (Ур 145)
   </td>
 <td>Брут<br>Вода<br>Большой</td>
-<td><img src="./Cards/ktullanux.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
+<td><img src="./Cards/ktullanux.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>Урон огненным монстрам +25%<br>Есть 10% шанс использовать Frost Nova при получении урона.<br><strong>Депозит:</strong>  Макс ХП +112  <br><strong>Получение:</strong>  МАТК +12</td>
 </tr>
 </tbody>
 </table><p>Следующая наша локация - сам город Ракель.</p>
-<h2 id="второй-этаж-биологической-лаборатории-западное-крыло">Ракель</h2>
+<h2 id="ракель">Ракель</h2>
 <img src="./Maps/Biolab 2F.png" />
 <p>В городе, как в большинстве других городов, отсутствуют мобы. Отсюда можной пройти в храм, где откроется доступ к Святым Землям.</p>
 <h2 id="второй-этаж-биологической-лаборатории-восточное-крыло">Святые Земли</h2>
@@ -146,7 +146,7 @@
   (Ур 132)
   </td>
 <td>Получеловек<br> Огонь<br> Средний</td>
-<td><img src="./Cards/hodremlin.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Игрок получает 1 INT  за каждые 10 единиц STR <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  МДеф +3</td>
+<td><img src="./Cards/hodremlin.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>Макс ХП +100<br>Макс СП +100<br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  MATK +3</td>
 </tr>
 <tr>
 <td>
@@ -155,7 +155,7 @@
   (Ур 139)
   </td>
 <td>Получеловек<br> Земля<br> Средний</td>
-<td><img src="./Cards/de.jpg" /><br><strong>Аксессуар</strong> <br><br><strong>Эффект:</strong>  Увеличение шанса поломки экипировки от [Acid  Terror], [Demonstration] и [Acid  Demonstration] на 5% [Эффект карт не складывается.] <br><strong>Депозит:</strong> DEF +2, Max HP +36  <br><strong>Получение:</strong> ATK +3, Max HP +36</td>
+<td><img src="./Cards/de.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200<br>Макс СП +2% <br><strong>Депозит:</strong> MDEF +3<br><strong>Получение:</strong> Макс ХП +10</td>
 </tr>
 <tr>
 <td>
@@ -164,7 +164,7 @@
   (Ур 141)
   </td>
 <td>Получеловек<br> Яд<br> Средний</td>
-<td><img src="./Cards/rde.jpg" /><br><strong>Накидка</strong> <br><br><strong>Эффект:</strong>  Снижение получаемого урона от огня на 5%. Урон от [Cross  Impact] увеличен на 15% <br><strong>Депозит:</strong>  МДеф +2, Макс ХП+36 <br><strong>Получение:</strong>  АТК+3, Макс ХП +36</td>
+<td><img src="./Cards/rde.jpg" /><br><strong>Оружие</strong> <br><br><strong>Эффект:</strong>Урон по тёмным монстрам +20%<br><strong>Депозит:</strong> ATK +3, Макс ХП +36 <br><strong>Получение:</strong>Урон по тёмным монстрам +1%</td>
 </tr>
 <tr>
 <td>
@@ -173,7 +173,7 @@
   (Ур 144)
   </td>
 <td>Демон<br> Тень<br> Маленький</td>
-<td><img src="./Cards/bishop.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>  Макс ХП +100, Макс СП +100 <br><strong>Депозит:</strong>  Макс ХП +36 <br><strong>Получение:</strong>  Деф +3</td>
+<td><img src="./Cards/bishop.jpg" /><br><strong>Ботинки</strong>, <br><br><strong>Эффект:</strong>Урон по Полулюдям +15%<br>Макс СП -30% <br><strong>Депозит:</strong>  MDEF +3, Макс ХП +36 <br><strong>Получение:</strong>ATK +8</td>
 </tr>
 <tr>
 <td>
@@ -182,7 +182,7 @@
   (Ур 148)
   </td>
 <td>Нежить<br> Нежить<br> Средний</td>
-<td><img src="./Cards/gloom.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>  Макс ХП +200, DEX +2, VIT +2  <br><strong>Депозит:</strong>  Макс ХП +36  <br><strong>Получение:</strong>  МАТК +3</td>
+<td><img src="./Cards/gloom.jpg" /><br><strong>Броня</strong> <br><br><strong>Эффект:</strong>Урон по святым и тёмным монстрам +15%<br>Урон по ангелам и демонам +15%<br><strong>Депозит:</strong>  Урон по ангелам +2%  <br><strong>Получение:</strong>Урон по святым монстрам +2%</td>
 </tr>
 </tbody>
 </table>
