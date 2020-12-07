@@ -244,6 +244,9 @@
         let currentIndex = exp.map((e, i) => e.t == (start.t + 1) && e.l == (start.lvl + 1) ? i : 0).reduce((a, b) => a + b)
         const stopIndex = exp.map((e, i) => e.t == (stop.t + 1) && e.l == (stop.lvl) ? i : 0).reduce((a, b) => a + b)
 
+        if (stopIndex < currentIndex) {
+            return stop.exp - start.exp
+        }
         console.log('start at: ' + currentIndex)
         console.log('stop at: ' + stopIndex)
 
