@@ -250,14 +250,13 @@
         let totJ = exp[currentIndex].e - start.exp
         console.log(totJ)
 
-        do {
+        while (currentIndex < stopIndex) {
             currentIndex++
 
             console.log('adding ' + exp[currentIndex].e)
 
             totJ += exp[currentIndex].e
         }
-        while (currentIndex < stopIndex)
 
         totJ += stop.exp
 
